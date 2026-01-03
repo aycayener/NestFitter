@@ -1,0 +1,35 @@
+name,amenity,longitude,latitude,health_type,name_norm
+İstanbul Tıp Merkezi,hospital,28.999195730181228,41.07106448297056,clinic_dental,istanbul tıp merkezi
+Sağlık Merkezi,hospital,29.070135250000003,41.20356745,other_health,saglık merkezi
+Medihaus Tıp Merkezi,hospital,28.656911362584044,41.01337140147725,clinic_dental,medihaus tıp merkezi
+Başakşehir Tıp Merkezi,hospital,28.79345604137146,41.10556199030361,clinic_dental,basaksehir tıp merkezi
+Diş Sağlık Merkezi,hospital,29.091285608033584,41.09718245111263,clinic_dental,dis saglık merkezi
+Özel Yaman Cerrahi Tıp Merkezi,hospital,28.82963977525348,41.02741599582576,clinic_dental,ozel yaman cerrahi tıp merkezi
+Özel Akkuş Ağız ve Diş Sağlığı Polikliniği,hospital,28.827097781050647,41.03843400944938,clinic_dental,ozel akkus agız ve dis saglıgı poliklinigi
+Yakacık Tıp Merkezi,hospital,29.22435390865824,40.92006630685695,clinic_dental,yakacık tıp merkezi
+Acıbadem Ataşehir Cerrahi Tıp Merkezi,hospital,29.108680482831502,40.98560433153711,clinic_dental,acıbadem atasehir cerrahi tıp merkezi
+Özel Avrupa Tıp Merkezi,hospital,28.685185323491424,41.02570416257798,clinic_dental,ozel avrupa tıp merkezi
+Özel Cenk Teker Tıp Merkezi,hospital,28.25612035442156,41.078812888688326,clinic_dental,ozel cenk teker tıp merkezi
+Küçükçekmece Ağız ve Diş Sağlığı Merkezi,hospital,28.79023741694933,41.02180113235984,clinic_dental,kucukcekmece agız ve dis saglıgı merkezi
+Zeytinburnu Yesiltepe Aile Sağlık Merkezi,hospital,28.89785883173658,40.991171205326765,other_health,zeytinburnu yesiltepe aile saglık merkezi
+Kadıköy Verem Savaş Dispanseri,hospital,29.033354576480427,40.99290127658372,clinic_dental,kadıkoy verem savas dispanseri
+Üsküdar Cezmi Or Verem Savaş Dispanseri,hospital,29.01207221337062,41.01802808133495,clinic_dental,uskudar cezmi or verem savas dispanseri
+Ümraniye Verem Savaş Dispanseri,hospital,29.08944156152609,41.03002300304779,clinic_dental,umraniye verem savas dispanseri
+Özel Abat Cerrahi Tıp Merkezi,hospital,28.660460505072283,40.988867931730816,clinic_dental,ozel abat cerrahi tıp merkezi
+Kızılay Altıntepe Tıp Merkezi,hospital,29.10463126042405,40.955005828359845,clinic_dental,kızılay altıntepe tıp merkezi
+Kadıköy Florence Nightingale Tıp Merkezi,hospital,29.04241420508467,40.98099063011719,clinic_dental,kadıkoy florence nightingale tıp merkezi
+Tuzla Ağız ve Diş Sağlığı Polikliniği,hospital,29.353910953029978,40.82370247466103,clinic_dental,tuzla agız ve dis saglıgı poliklinigi
+Vera Tıp Merkezi,hospital,28.7968486,41.0060255,clinic_dental,vera tıp merkezi
+Belde Tıp Merkezi,hospital,28.9158289,41.057449,clinic_dental,belde tıp merkezi
+Özel Mediplus Tıp Merkezi,hospital,28.6608987,41.0178075,clinic_dental,ozel mediplus tıp merkezi
+İstanbulum Tıp Merkezi,hospital,28.8616773,41.1034186,clinic_dental,istanbulum tıp merkezi
+Dayıoğlu Tıp Merkezi,hospital,28.746725,41.0633215,clinic_dental,dayıoglu tıp merkezi
+Özel 2000 Tıp Merkezi,hospital,28.5809717,41.0205828,clinic_dental,ozel 2000 tıp merkezi
+fsm tıp merkezi,hospital,29.218531,41.0229665,clinic_dental,fsm tıp merkezi
+NGY Med Dental Clinic,hospital,28.6261789,41.0025741,clinic_dental,ngy med dental clinic
+Özel Medipoint Tıp Merkezi,hospital,29.0713318,40.9823877,clinic_dental,ozel medipoint tıp merkezi
+Özel Baydent Ağız ve Diş Sağlığı Polikliniği,hospital,29.2367531,40.8829325,clinic_dental,ozel baydent agız ve dis saglıgı poliklinigi
+Bayındır Levent Tıp Merkezi,hospital,29.0179686,41.0730408,clinic_dental,bayındır levent tıp merkezi
+Marmara Tıp Merkezi,hospital,29.0584553,40.9840765,clinic_dental,marmara tıp merkezi
+Özel Belde Tıp Merkezi,hospital,28.9153423,41.0567006,clinic_dental,ozel belde tıp merkezi
+Özel Lilyum Tıp Merkezi,hospital,28.6273395,41.1577165,clinic_dental,ozel lilyum tıp merkezi

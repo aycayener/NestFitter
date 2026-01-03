@@ -1,0 +1,119 @@
+[
+  {
+    "profile_id": "student",
+    "profile_name": "Öğrenci",
+    "description": "Üniversiteye yakın, ulaşımı kolay ve sosyal imkanları olan lokasyonları tercih eder.",
+    "radius_m": 1000,
+    "weights": {
+      "station_main": 5,
+      "school_public": 4,
+      "school_courses": 3,
+      "supermarket_main": 3,
+      "cafe_main": 2,
+      "bar_main": 1,
+      "park_main": 1,
+      "mall_main": 1
+    }
+  },
+  {
+    "profile_id": "family_with_child",
+    "profile_name": "Çocuklu Aile",
+    "description": "İlkokul, park ve sağlık hizmetlerine yakın, daha sakin yaşam alanlarını tercih eder.",
+    "radius_m": 1000,
+    "must_have": [
+      "school_public"
+    ],
+    "weights": {
+      "school_public": 5,
+      "park_main": 4,
+      "hospital_main": 4,
+      "supermarket_main": 3,
+      "station_main": 2,
+      "bar_main": -2
+    }
+  },
+  {
+    "profile_id": "elderly_couple",
+    "profile_name": "Yaşlı Çift",
+    "description": "Sağlık hizmetlerine yakın ve daha sakin bölgeleri tercih eder.",
+    "radius_m": 800,
+    "weights": {
+      "hospital_main": 5,
+      "park_main": 4,
+      "supermarket_main": 3,
+      "station_main": 2,
+      "bar_main": -3,
+      "cafe_main": -1
+    }
+  },
+  {
+    "profile_id": "sport_focused_single",
+    "profile_name": "Spor Odaklı Bekar",
+    "description": "Spor salonlarına ve açık spor alanlarına yakın yaşamayı önemser.",
+    "radius_m": 1000,
+    "weights": {
+      "gym_main": 5,
+      "sports_centre_main": 5,
+      "park_main": 3,
+      "supermarket_main": 2,
+      "bar_main": 1
+    }
+  },
+  {
+    "profile_id": "social_young",
+    "profile_name": "Sosyal Hayat Odaklı Genç",
+    "description": "Cafe, bar ve sosyal mekanlara yakın, daha canlı bölgeleri sever.",
+    "radius_m": 800,
+    "weights": {
+      "cafe_main": 5,
+      "bar_main": 5,
+      "mall_main": 3,
+      "station_main": 3,
+      "park_main": 1
+    }
+  },
+  {
+    "profile_id": "quiet_seeker",
+    "profile_name": "Sessizlik Arayan",
+    "description": "Kalabalıktan uzak, yeşil alana yakın ve sakin lokasyonları tercih eder.",
+    "radius_m": 1000,
+    "avoid": [
+      "bar_main",
+      "cafe_main"
+    ],
+    "weights": {
+      "park_main": 5,
+      "hospital_main": 3,
+      "supermarket_main": 3,
+      "bar_main": -5,
+      "cafe_main": -4,
+      "mall_main": -2
+    }
+  },
+  {
+    "profile_id": "remote_worker",
+    "profile_name": "Uzaktan Çalışan",
+    "description": "Sessiz ama ihtiyaçlara yakın lokasyonları tercih eder.",
+    "radius_m": 1000,
+    "weights": {
+      "supermarket_main": 4,
+      "park_main": 3,
+      "cafe_main": 2,
+      "station_main": 1,
+      "bar_main": -2
+    }
+  },
+  {
+    "profile_id": "car_owner_worker",
+    "profile_name": "Araç Sahibi Çalışan",
+    "description": "Otopark erişimi olan, pratik bölgeleri tercih eder.",
+    "radius_m": 1200,
+    "weights": {
+      "parking_main": 5,
+      "station_main": 3,
+      "supermarket_main": 3,
+      "mall_main": 2,
+      "bar_main": -1
+    }
+  }
+]

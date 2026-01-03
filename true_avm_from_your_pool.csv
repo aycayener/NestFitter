@@ -1,0 +1,57 @@
+﻿name,amenity,shop,leisure,longitude,latitude,pool_norm,exact_hit,fuzzy_match,fuzzy_score,fuzzy_hit,is_avm
+Mall of İstanbul,,mall,,28.807075937323216,41.06296417350676,of istanbul,True,of istanbul,100.0,True,True
+Akasya Alışveriş Merkezi,,mall,,29.054839373747697,41.00155566643046,akasya al sveris,False,kanyon al sveris,81.25,True,True
+İstanbul Cevahir Alışveriş ve Eğlence Merkezi,,mall,,28.992988487812408,41.062587507147576,istanbul cevahir al sveris ve eglence,False,cevahir al sveris,100.0,True,True
+CarrefourSA Bayrampaşa,,mall,,28.89051504278918,41.04211956997029,carrefoursa bayrampasa,False,carrefoursa,100.0,True,True
+Akmerkez,,mall,,29.02692523112886,41.07685089595868,akmerkez,False,aymerkez,87.5,True,True
+Astoria,,mall,,29.005869030609738,41.068597128541576,astoria,True,astoria,100.0,True,True
+Sapphire,,mall,,29.00604976684489,41.0849612610735,sapphire,False,sapphire cars,100.0,True,True
+Ataköy Galleria Alışveriş Merkezi,,mall,,28.869530554056915,40.97441316623021,atakoy galleria al sveris,False,galleria,100.0,True,True
+Carousel Alışveriş ve Yaşam Merkezi,,mall,,28.87344687405536,40.9777824185465,carousel al sveris ve yasam,False,carousel,100.0,True,True
+Ataköy Marina Park Alışveriş Merkezi,,mall,,28.87575891185884,40.973128596615695,atakoy marina park al sveris,False,atakoy plus al sveris,86.48648648648648,True,True
+CarrefourSA Hiper,,mall,,28.65858489379172,41.01082308105915,carrefoursa hiper,False,carrefoursa,100.0,True,True
+Migros AVM,,mall,,28.65773812924949,41.00674221412207,migros,False,beylikduzu migros,100.0,True,True
+Brand İstanbul Park,,mall,,28.64686003665332,41.01232853171669,brand istanbul park,False,of istanbul,84.21052631578948,True,True
+Perlavista Alışveriş Merkezi,,mall,,28.62742942639115,41.016002581074375,perlavista al sveris,False,perlavista,100.0,True,True
+İstanbul Outlet Park,,mall,,28.63186324935412,41.01824249225118,istanbul outlet park,False,212 istanbul power outlet,85.71428571428571,True,True
+Paradise AVM,,mall,,28.625324675220263,41.00403360868683,paradise,True,paradise,100.0,True,True
+Torium Avm,,mall,,28.688584895626068,41.00406201802196,torium,True,torium,100.0,True,True
+Ataköy A Plus AVM,,mall,,28.850395605495752,40.97844433969617,atakoy a plus,False,atakoy plus al sveris,91.66666666666667,True,True
+Historia Alışveriş ve Yaşam Merkezi,,mall,,28.945291564669,41.01441772737582,historia al sveris ve yasam,True,historia al sveris ve yasam,100.0,True,True
+Airport AVM,,mall,,28.83073304836973,40.99146093458078,airport,True,airport,100.0,True,True
+City Center Outlet AVM,,mall,,28.68726207920586,41.019826376826494,city outlet,False,foxcity outlet,88.0,True,True
+212 Outlet,,mall,,28.81030197675914,41.04785347847478,212 outlet,False,212 istanbul power outlet,100.0,True,True
+LOCA İstanbul,,mall,,28.686372236252787,41.07044870764531,loca istanbul,False,of istanbul,84.21052631578948,True,True
+Metro Grossmarket Merter,,mall,,28.87947932101037,41.01515134574257,metro grossmarket merter,False,metro,100.0,True,True
+City's Nişantaşı,,mall,,28.9927874581649,41.051063971776834,city s nisantas,True,city s nisantas,100.0,True,True
+ArenaPark Alışveriş Ve Yaşam Merkezi,,mall,,28.791007051410023,41.05400629333884,arenapark al sveris ve yasam,False,akbat al sveris ve yasam,85.71428571428571,True,True
+Olivium Outlet Center,,mall,,28.90979007438502,40.99538024883182,olivium outlet,True,olivium outlet,100.0,True,True
+Starcity Outlet Center,,mall,,28.81603162294216,41.01132974322766,starcity outlet,False,starcity,100.0,True,True
+Forum İstanbul Alışveriş ve Yaşam Merkezi,,mall,,28.897535044645306,41.0466520539898,forum istanbul al sveris ve yasam,False,akbat al sveris ve yasam,85.71428571428571,True,True
+Mayadrom,,mall,,29.021967018635628,41.08647748551951,mayadrom,False,mayadrom akatlar,100.0,True,True
+Aymerkez,,mall,,28.543606807258787,41.014037805096905,aymerkez,True,aymerkez,100.0,True,True
+Aqua Florya Alışveriş Merkezi,,mall,,28.79781904202592,40.9655111342469,aqua florya al sveris,False,aqua florya,100.0,True,True
+Atrium AVM,,mall,,28.845845617803796,40.98876208526054,atrium,True,atrium,100.0,True,True
+Axis İstanbul,,mall,,28.92078170246407,41.03532065526134,axis istanbul,False,of istanbul,84.21052631578948,True,True
+Flyinn Alışveriş ve Yaşam Merkezi,,mall,,28.80434217418637,40.97298370925376,flyinn al sveris ve yasam,True,flyinn al sveris ve yasam,100.0,True,True
+Pelican Mall,,mall,,28.71498312618002,40.99110122693714,pelican,True,pelican,100.0,True,True
+narcity avm,,mall,,29.16792746678083,40.95484001678484,narcity,False,starcity,80.0,True,True
+UNIQ Istanbul,,mall,,29.007804142419303,41.10790268787444,uniq istanbul,False,of istanbul,84.21052631578948,True,True
+Deposite Outlet AVM,,mall,,28.80914014548334,41.071214553045,deposite outlet,True,deposite outlet,100.0,True,True
+Olimpa AVM,,mall,,28.78860015776643,41.109411435862064,olimpa,False,olimpa al sveris ve yasam,100.0,True,True
+Merkez Kayaşehir Alışveriş Merkezi,,mall,,28.75747830547185,41.10799716060996,merkez kayasehir al sveris,False,merkez kayasehir,100.0,True,True
+Ekinoks Beylikdüzü,,mall,,28.644336059676004,41.01258333640168,ekinoks beylikduzu,False,beylikduzu migros,80.0,True,True
+İstanbul Çarşı,,mall,,28.81018724033133,41.10066872857618,istanbul cars,False,of istanbul,84.21052631578948,True,True
+Capacity Alışveriş ve Yaşam Merkezi,,mall,,28.87129706936316,40.97753003309397,capacity al sveris ve yasam,False,capacity,100.0,True,True
+Maxi AVM,,mall,,28.20383369038063,41.0824871524603,maxi,True,maxi,100.0,True,True
+Atirus,,mall,,28.58376652395762,41.02119677514792,atirus,True,atirus,100.0,True,True
+Marmara Forum,,mall,,28.88594813149297,40.99695896964411,marmara forum,True,marmara forum,100.0,True,True
+İstanbul A.V.M.,,mall,,29.1322721,40.9240097,istanbul a v m,False,of istanbul,84.21052631578948,True,True
+İstanbul AVM,,mall,,29.1324173,40.9239293,istanbul,False,of istanbul,100.0,True,True
+İstanbul Sanatları Çarşısı,,mall,,28.9788085,41.0063554,istanbul sanatlar cars s,False,of istanbul,84.21052631578948,True,True
+İstanbul Bazaar,,mall,,28.9538519,41.0089024,istanbul bazaar,False,of istanbul,84.21052631578948,True,True
+Ev center,,mall,,29.2688744,40.9666792,ev,False,addres istanbul ev dekorasyon,100.0,True,True
+Kanyon AVM,,mall,,29.0112099,41.0781323,kanyon,False,kanyon al sveris,100.0,True,True
+Metropol İstanbul,,mall,,29.1218458,40.994175,metropol istanbul,False,of istanbul,84.21052631578948,True,True
+Meydan İstanbul Alışveriş ve Yaşam Merkezi,,mall,,29.1259933,41.023666,meydan istanbul al sveris ve yasam,False,akbat al sveris ve yasam,85.71428571428571,True,True
+Kadir Has AVM,,mall,,28.8643173,40.9960407,kadir has,True,kadir has,100.0,True,True

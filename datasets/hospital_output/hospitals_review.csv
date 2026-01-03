@@ -1,0 +1,105 @@
+name,amenity,longitude,latitude,health_type,name_norm
+Orion Surgery Center,hospital,28.981972113984387,41.09007212353086,other_health,orion surgery center
+Acıbadem International Hospital,hospital,28.8355184777438,40.95888617624231,other_health,acıbadem international hospital
+Erenköy Polikliniği,hospital,29.07639392748856,40.97215198633679,other_health,erenkoy poliklinigi
+Kolan Hospital-Beylikdüzü,hospital,28.62959134201721,41.006606152102734,other_health,kolan hospital-beylikduzu
+Büyükçekmece Devlet Hastanesi Gürpınar Poliklinikleri,hospital,28.607599640897213,40.99646238603989,clinic_dental,buyukcekmece devlet hastanesi gurpınar poliklinikleri
+Karakoy Sahil Saglik Denetleme Merkezi,hospital,28.97661445945221,41.02203199599985,other_health,karakoy sahil saglik denetleme merkezi
+Dünyagöz,hospital,29.04800336335727,40.97684257989029,other_health,dunyagoz
+Tepe Özel Kliniği,hospital,29.061566560195665,41.03652547481847,other_health,tepe ozel klinigi
+Medipol,hospital,29.034143606559912,41.00483509271596,other_health,medipol
+Özel Intermed Çiftehavuzlar Polikliniği,hospital,29.05356495,40.9692906,other_health,ozel intermed ciftehavuzlar poliklinigi
+Delta Hospital,hospital,29.125119060981653,40.9461704592894,other_health,delta hospital
+Acıbadem Hospital,hospital,28.65590579694557,41.00355858464751,other_health,acıbadem hospital
+Liv Hospital Ulus,hospital,29.0285250910283,41.06084116719988,other_health,liv hospital ulus
+Medical Park,hospital,28.86301882773928,40.9958435873629,other_health,medical park
+Veni Vidi Göz,hospital,29.063020242078665,40.97016062360566,other_health,veni vidi goz
+Gökjet Özel Havacılık Mesleki ve Teknik Anadolu Lisesi,hospital,28.53251503987001,41.010626782393445,other_health,gokjet ozel havacılık mesleki ve teknik anadolu lisesi
+Medical Park Göztepe,hospital,29.077393607603643,40.98995859559157,other_health,medical park goztepe
+Liv Hospital,hospital,29.028500439633827,41.060816624382326,other_health,liv hospital
+Medicana Böbrek Nakil Merkezi,hospital,29.082928757078008,41.02465511666907,other_health,medicana bobrek nakil merkezi
+Academic Hospital,hospital,29.03500042487624,41.01970298289738,other_health,academic hospital
+Medicana Kadıköy,hospital,29.03821944349341,40.98534739337985,other_health,medicana kadıkoy
+Pendik Hospital,hospital,29.24436117970368,40.88356997550962,other_health,pendik hospital
+Bezmialem Üniversitesi İlhan Varank Yerleşkesi,hospital,28.864831572243155,41.09495526033207,other_health,bezmialem universitesi ilhan varank yerleskesi
+Bahçeşehir Semt Polikliniği,hospital,28.683882687081404,41.06246187937359,other_health,bahcesehir semt poliklinigi
+Cemal Pamuk Aile Sağlığı Merkezi,hospital,28.78543707661659,40.99913990624546,other_health,cemal pamuk aile saglıgı merkezi
+Tuzla Devlet Hastahanesi,hospital,29.30321862088855,40.8443864635755,other_health,tuzla devlet hastahanesi
+Okan Üniversitesi Diş Hastanesi,hospital,29.301695579079656,40.85912473266593,clinic_dental,okan universitesi dis hastanesi
+Bolluca Sağlık Ocağı,hospital,28.76232084516464,41.19997166462954,other_health,bolluca saglık ocagı
+Tuzla Termal Tesisleri,hospital,29.29451722666328,40.84482186334258,other_health,tuzla termal tesisleri
+VM Medical Park Pendik,hospital,29.25642505728346,40.880658733824966,other_health,vm medical park pendik
+Özel Baypark Hospital,hospital,28.89108340163267,41.0630169664684,other_health,ozel baypark hospital
+Özel Medicine Hospital Güneşli,hospital,28.83849859167121,41.03012475878472,other_health,ozel medicine hospital gunesli
+Yavuz Selim Devlet Hastanesi Poliklinikleri,hospital,29.20451368112528,40.9016229958577,clinic_dental,yavuz selim devlet hastanesi poliklinikleri
+Dünyagöz,hospital,29.11149935946477,40.98440685168008,other_health,dunyagoz
+Moodist Psikiyatri ve Nöroloji Hastanesi,hospital,29.05339906983787,41.00232731284003,clinic_dental,moodist psikiyatri ve noroloji hastanesi
+Ataşehir Ağız ve Diş Sağlığı Hastanesi,hospital,29.10918889574964,40.99063397448642,clinic_dental,atasehir agız ve dis saglıgı hastanesi
+Medicana,hospital,29.082544502138912,41.024299339112,other_health,medicana
+Sultantepe ASM,hospital,29.02112942709192,41.02838138954245,other_health,sultantepe asm
+Mehmet Remzi Önecek Aile Sağlığı Merkezi,hospital,28.671425176618417,41.04058467286772,other_health,mehmet remzi onecek aile saglıgı merkezi
+Teke Köyü Sağlık Evi,hospital,29.664879553611787,41.0688359167503,other_health,teke koyu saglık evi
+Kartal Dr Lütfi Kırdar Eğitim ve Araştırma Hastane Polİklİnİklerİ,hospital,29.17100334402083,40.91702481724581,hospital,kartal dr lutfi kırdar egitim ve arastırma hastane poliklinikleri
+Büyük Çavuşlu Aile Sağlığı Mer. (Medical Clinic),hospital,28.06448319946214,41.239123108416464,other_health,buyuk cavuslu aile saglıgı mer. (medical clinic)
+AsMed,hospital,29.11605420767025,40.99204656578753,other_health,asmed
+Ataşehir Florence Nightingale,hospital,29.10930288407853,40.98454923183173,other_health,atasehir florence nightingale
+Esthetica,hospital,29.110046684288,40.985160646743104,other_health,esthetica
+Central Hospital,hospital,29.100294018039104,40.96592590094286,other_health,central hospital
+Medical Park,hospital,28.22446319372761,41.08239652209384,other_health,medical park
+Girne Aile Sağlığı Merkezi,hospital,29.139267457808582,40.94288284466786,other_health,girne aile saglıgı merkezi
+Çekmeköy İlçe Sağlık Müdürlüğü,hospital,29.17580011315201,41.03686750932703,other_health,cekmekoy ilce saglık mudurlugu
+Medistanbul Hastanesi,hospital,28.90475285099492,41.09276953063443,clinic_dental,medistanbul hastanesi
+Kadıköy Belediyesi Dr. Rana Beşe Sağlık Polikinliği,hospital,29.04830136870365,40.987949209573216,other_health,kadıkoy belediyesi dr. rana bese saglık polikinligi
+Dünya Göz Suadiye,hospital,29.075019592493547,40.96110109808084,other_health,dunya goz suadiye
+Lema Clinic,hospital,28.796045090015703,41.052587580504536,other_health,lema clinic
+Bayrampaşa İlçe Sağlık Müdürlüğü,hospital,28.884204288518905,41.06800325717867,other_health,bayrampasa ilce saglık mudurlugu
+T.C. Sağlık Bakanlığı Esenler 8 No'lu Aile Sağlığı Merkezi,hospital,28.8630193,41.04359019999999,other_health,t.c. saglık bakanlıgı esenler 8 no'lu aile saglıgı merkezi
+Central Hospital,hospital,29.11072486948014,40.97925610260263,other_health,central hospital
+Op. Dr. Arash Jafari,hospital,29.012872,41.07620685,other_health,op. dr. arash jafari
+Hospital Türk,hospital,29.0218119,41.0259618,other_health,hospital turk
+Florence Nightingale,hospital,29.0042388,41.0632063,other_health,florence nightingale
+Özel Küplüce Tıp Merkez,hospital,29.0522183,41.0396776,other_health,ozel kupluce tıp merkez
+Özel Remedy Hospital,hospital,29.2368748,40.8787769,other_health,ozel remedy hospital
+Acıbadem Hospital,hospital,28.8730593,40.977664,other_health,acıbadem hospital
+Alataş Polikliniği,hospital,28.6806966,41.0347149,other_health,alatas poliklinigi
+Özel Avcılar Hospital,hospital,28.709593,40.9947818,other_health,ozel avcılar hospital
+İstanbul Tüpbebek,hospital,28.9983966,41.0554676,other_health,istanbul tupbebek
+Mecidiyeköy KBB ve Vertigo Kliniği,hospital,28.995985,41.06524,other_health,mecidiyekoy kbb ve vertigo klinigi
+Acıbadem Taksim,hospital,28.9820377,41.0412184,other_health,acıbadem taksim
+Beyoglu,hospital,28.974911,41.0314549,other_health,beyoglu
+istanbul Eğitim ve Araştırma Hastanesi Poliklinikleri,hospital,28.9457972,41.0092457,clinic_dental,istanbul egitim ve arastırma hastanesi poliklinikleri
+İstanbul Üniversitesi Kardiyoloji enistitusu,hospital,28.9432435,41.0091541,other_health,istanbul universitesi kardiyoloji enistitusu
+Özel İstanbul Şafak Hastahanesi,hospital,28.8999746,41.0656093,other_health,ozel istanbul safak hastahanesi
+Özel gop Yaşam Diyaliz Merkezi,hospital,28.8645332,41.1049081,other_health,ozel gop yasam diyaliz merkezi
+Dora Hospital,hospital,29.0010012,41.0589817,other_health,dora hospital
+Neolife,hospital,29.0200903,41.0704006,other_health,neolife
+Aksa,hospital,28.826181,41.0314854,other_health,aksa
+Tempo OSGB - İşe Giriş Sağlık Raporu,hospital,29.0929142,41.0270348,other_health,tempo osgb - ise giris saglık raporu
+İstanbullu OSGB,hospital,28.8059014,41.0800511,other_health,istanbullu osgb
+Doktor Levent Polikliniği,hospital,28.9864126,41.0624452,other_health,doktor levent poliklinigi
+Özel Elitium,hospital,28.6760478,41.0603661,other_health,ozel elitium
+Bayrampaşa 1 Nolu Yabancı Uyruklular Polikliniği,hospital,28.9070788,41.0303249,other_health,bayrampasa 1 nolu yabancı uyruklular poliklinigi
+Bağcılar 28 Nolu Aile Sağlığı Merkezi,hospital,28.8201612,41.0431277,other_health,bagcılar 28 nolu aile saglıgı merkezi
+Acil Tıp Kliniği,hospital,28.9370757,41.0028506,other_health,acil tıp klinigi
+Alpha Hair Central,hospital,28.992022,41.0613263,other_health,alpha hair central
+Hasanpaşa Aile Sağlığı Merkezi,hospital,29.0428574,40.9973977,other_health,hasanpasa aile saglıgı merkezi
+Bakırköy 4 Nolu Aile Sağlığı Merkezi,hospital,28.8718638,40.9785089,other_health,bakırkoy 4 nolu aile saglıgı merkezi
+Op.Dr.Alper Tuncel,hospital,28.9910859,41.0516267,other_health,op.dr.alper tuncel
+Medient,hospital,29.0927519,40.9826508,other_health,medient
+Büyükçekmece Aile Sağlığı Merkezi,hospital,28.5786177,41.0203306,other_health,buyukcekmece aile saglıgı merkezi
+Sağlık Ocağı,hospital,28.6041953,41.0168104,other_health,saglık ocagı
+Bahceci,hospital,29.0418888,41.0221279,other_health,bahceci
+Medihaus,hospital,28.6568742,41.0133418,other_health,medihaus
+Maltepe 4 Nolu Aile Hekimliği,hospital,29.1167634,40.9410585,other_health,maltepe 4 nolu aile hekimligi
+ARES Psikolojik Danışmanlık Merkezi,hospital,29.1338782,40.9226879,other_health,ares psikolojik danısmanlık merkezi
+Küçükbakkalköy Aile Sağlığı Merkezi,hospital,29.1255715,40.9804944,other_health,kucukbakkalkoy aile saglıgı merkezi
+Op.Dr.Alper TUNCEL,hospital,28.9910831,41.0517202,other_health,op.dr.alper tuncel
+Üsküdar Üniversitesi Diş Hastanesi,hospital,29.1157001,41.0276144,clinic_dental,uskudar universitesi dis hastanesi
+Dr Ezgi Özkur,hospital,28.9909873,41.0492903,other_health,dr ezgi ozkur
+Acıbadem,hospital,28.8860229,41.1797497,other_health,acıbadem
+Patológia,hospital,28.9383347,41.003674,other_health,patologia
+Aktif International Hospital,hospital,29.0174216,41.0230164,other_health,aktif international hospital
+Selimpaşa Aile Sağlığı Merkezi,hospital,28.3671171,41.0554262,other_health,selimpasa aile saglıgı merkezi
+Eyüp Kemerburgaz Aile Sağlığı Merkezi,hospital,28.91162,41.159064,other_health,eyup kemerburgaz aile saglıgı merkezi
+Bağcılar İşitme Engelli Rehabilitasyon Merkezi,hospital,28.8487524,41.0254232,other_health,bagcılar isitme engelli rehabilitasyon merkezi
+ENT Clinic-Dr. Selcuk Guney,hospital,28.9852615,41.0550656,other_health,ent clinic-dr. selcuk guney

@@ -1,0 +1,5499 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-12T16:39:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1431383669",
+        "name": "Ispartakule",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.699338,
+              41.0628938
+            ],
+            [
+              28.699287,
+              41.0630079
+            ],
+            [
+              28.6991774,
+              41.062984
+            ],
+            [
+              28.6991937,
+              41.0629596
+            ],
+            [
+              28.6992199,
+              41.0629689
+            ],
+            [
+              28.6992639,
+              41.0628711
+            ],
+            [
+              28.699338,
+              41.0628938
+            ]
+          ]
+        ]
+      },
+      "id": "way/1431383669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31678662",
+        "name": "Karaköy",
+        "name:en": "Karaköy Station, Tünel Line",
+        "opening_hours": "Mo-Sa 07:00-22:45; Su 07:30-22:45",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "tunnel": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q48805491",
+        "wikimedia_commons": "Category:Karaköy (Tünel)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9740393,
+          41.0228645
+        ]
+      },
+      "id": "node/31678662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31678663",
+        "funicular": "yes",
+        "internet_access": "no",
+        "name": "Beyoğlu",
+        "name:en": "Beyoğlu Station, Tünel Line",
+        "opening_hours": "Mo-Sa 07:00-22:45; Su 07:30-22:45",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "tunnel": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q20313271",
+        "wikimedia_commons": "Category:Beyoğlu station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9739892,
+          41.0283447
+        ]
+      },
+      "id": "node/31678663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/251733019",
+        "name": "Zeytinburnu-Fişekhane",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q43398835",
+        "wikimedia_commons": "Category:Zeytinburnu railway station",
+        "wikipedia": "tr:Zeytinburnu-Fişekhane Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9054568,
+          40.9858638
+        ]
+      },
+      "id": "node/251733019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282903538",
+        "name": "Küçükyalı",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "toilets:wheelchair": "yes",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q55616344",
+        "wikimedia_commons": "File:Küçükyalı Tren İstasyonu.jpg",
+        "wikipedia": "tr:Küçükyalı Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1071691,
+          40.9462581
+        ]
+      },
+      "id": "node/282903538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282909259",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Atalar",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q97320574",
+        "wikimedia_commons": "File:Atalar Tren İstasyonu.jpg",
+        "wikipedia": "tr:Atalar Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1691914,
+          40.8987868
+        ]
+      },
+      "id": "node/282909259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282909973",
+        "name": "Cevizli",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q97320607",
+        "wikimedia_commons": "Category:Cevizli railway station",
+        "wikipedia": "tr:Cevizli Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1559855,
+          40.9100807
+        ]
+      },
+      "id": "node/282909973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/287816799",
+        "ele": "221",
+        "name": "Sinekli",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q97334714",
+        "wikipedia": "tr:Sinekli Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1923087,
+          41.2310387
+        ]
+      },
+      "id": "node/287816799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/617374869",
+        "name": "İdealtepe",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q55638302",
+        "wikimedia_commons": "File:İdealtepe Tren İstasyonu.jpg",
+        "wikipedia": "tr:İdealtepe Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1142485,
+          40.9378183
+        ]
+      },
+      "id": "node/617374869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/617374883",
+        "name": "Süreyya Plajı",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q97320827",
+        "wikimedia_commons": "File:Süreyya Plajı Tren İstasyonu.jpg",
+        "wikipedia": "tr:Süreyya Plajı Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1242403,
+          40.9267941
+        ]
+      },
+      "id": "node/617374883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/617374899",
+        "name": "Maltepe",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q6744772",
+        "wikimedia_commons": "Category:Maltepe railway station",
+        "wikipedia": "tr:Maltepe Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.133295,
+          40.920807
+        ]
+      },
+      "id": "node/617374899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/617375011",
+        "ele": "12.4",
+        "name": "Pendik",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q7162415",
+        "wikimedia_commons": "Category:Pendik railway station",
+        "wikipedia": "tr:Pendik Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2315477,
+          40.8802498
+        ]
+      },
+      "id": "node/617375011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/670233794",
+        "name": "Gayrettepe",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q20717398",
+        "wikimedia_commons": "Category:Gayrettepe (M2) Station",
+        "wikipedia": "tr:Gayrettepe (M2, İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0111192,
+          41.0690337
+        ]
+      },
+      "id": "node/670233794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1000822648",
+        "name": "Kartal",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q55615709",
+        "wikimedia_commons": "Category:Kartal railway station",
+        "wikipedia": "tr:Kartal Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1910827,
+          40.8886904
+        ]
+      },
+      "id": "node/1000822648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1027924561",
+        "name": "Florya",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q58814863",
+        "wikimedia_commons": "Category:Florya railway station",
+        "wikipedia": "tr:Florya Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7876122,
+          40.972897
+        ]
+      },
+      "id": "node/1027924561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1184766559",
+        "name": "Yenimahale",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q55638084",
+        "wikimedia_commons": "Category:Yenimahalle railway station",
+        "wikipedia": "tr:Yenimahalle Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8810529,
+          40.9817256
+        ]
+      },
+      "id": "node/1184766559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1184766586",
+        "name": "Yeşilyurt",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q92213253",
+        "wikimedia_commons": "File:Yeşilyurt Tren İstasyonu.jpg",
+        "wikipedia": "tr:Yeşilyurt Tren İstasyonu (İstanbul)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8373253,
+          40.9654468
+        ]
+      },
+      "id": "node/1184766586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1302508988",
+        "name": "Emniyet - Fatih",
+        "name:ar": "أمنيات الفاتح",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q20717317",
+        "wikipedia": "tr:Emniyet - Fatih (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9393888,
+          41.017567
+        ]
+      },
+      "id": "node/1302508988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1744724160",
+        "name": "Yeşilköy",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q92207039",
+        "wikimedia_commons": "Category:Yeşilköy railway station",
+        "wikipedia": "tr:Yeşilköy Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.824857,
+          40.9626544
+        ]
+      },
+      "id": "node/1744724160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898299271",
+        "name": "Kadıköy",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18712376",
+        "wikimedia_commons": "Category:Kadıköy Station",
+        "wikipedia": "tr:Kadıköy (İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0220448,
+          40.9905872
+        ]
+      },
+      "id": "node/1898299271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898304351",
+        "ele": "-20",
+        "local_ref": "2",
+        "name": "Ayrılık Çeşmesi",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18712120",
+        "wikimedia_commons": "Category:Ayrılık Çeşmesi railway station",
+        "wikipedia": "tr:Ayrılık Çeşmesi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0302593,
+          41.0001678
+        ]
+      },
+      "id": "node/1898304351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898314728",
+        "name": "Yenisahra",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46696116",
+        "wikimedia_commons": "Category:Yenisahra Station",
+        "wikipedia": "tr:Yenisahra (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0904257,
+          40.9845938
+        ]
+      },
+      "id": "node/1898314728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898314734",
+        "name": "Göztepe",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46690706",
+        "wikimedia_commons": "Category:Göztepe (M4) Station",
+        "wikipedia": "tr:Göztepe (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0706141,
+          40.9940938
+        ]
+      },
+      "id": "node/1898314734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898314736",
+        "name": "Acıbadem",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46639579",
+        "wikimedia_commons": "Category:Acıbadem Station",
+        "wikipedia": "tr:Acıbadem (İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0444009,
+          41.0023323
+        ]
+      },
+      "id": "node/1898314736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898314743",
+        "name": "Bostancı",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46717966",
+        "wikimedia_commons": "Category:Bostancı_(M4)_Station",
+        "wikipedia": "tr:Bostancı (M4, İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1053769,
+          40.964688
+        ]
+      },
+      "id": "node/1898314743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1907439622",
+        "name": "Yunus",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q58814876",
+        "wikimedia_commons": "File:Yunus Tren İstasyonu2.jpg",
+        "wikipedia": "tr:Yunus Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2104051,
+          40.8845607
+        ]
+      },
+      "id": "node/1907439622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1908362611",
+        "addr:city": "İstanbul",
+        "addr:district": "Kadıköy",
+        "addr:neighbourhood": "Erenköy Mahallesi",
+        "addr:postcode": "34738",
+        "name": "Erenköy",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q43398833",
+        "wikimedia_commons": "File:Erenköy Tren İstayonu.jpg",
+        "wikipedia": "tr:Erenköy Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0763701,
+          40.9716688
+        ]
+      },
+      "id": "node/1908362611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988218793",
+        "name": "Maltepe",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46722306",
+        "wikimedia_commons": "Category:Maltepe Station",
+        "wikipedia": "tr:Maltepe (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.139504,
+          40.9358681
+        ]
+      },
+      "id": "node/1988218793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988218796",
+        "name": "Kartal",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46771044",
+        "wikimedia_commons": "Category:Kartal Station",
+        "wikipedia": "tr:Kartal (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2113435,
+          40.9065852
+        ]
+      },
+      "id": "node/1988218796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988218799",
+        "name": "Küçükyalı",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46719269",
+        "wikimedia_commons": "Category:Küçükyalı Station",
+        "wikipedia": "tr:Küçükyalı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1219958,
+          40.9489271
+        ]
+      },
+      "id": "node/1988218799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2171927595",
+        "name": "Seyrantepe",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q47004751",
+        "wikipedia": "tr:Seyrantepe (İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9957261,
+          41.1011898
+        ]
+      },
+      "id": "node/2171927595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2171927596",
+        "name": "Sanayi",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q20718122",
+        "wikimedia_commons": "Category:Sanayi Mahallesi Station",
+        "wikipedia": "tr:Sanayi Mahallesi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0051754,
+          41.0942135
+        ]
+      },
+      "id": "node/2171927596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2239404700",
+        "name": "Atatürk Oto Sanayi",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q20312760",
+        "wikimedia_commons": "Category:Atatürk Oto Sanayi Station",
+        "wikipedia": "tr:Atatürk Oto Sanayi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0241763,
+          41.1180498
+        ]
+      },
+      "id": "node/2239404700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2253949587",
+        "ele": "2",
+        "name": "Halkalı",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5642508",
+        "wikimedia_commons": "Category:Halkalı Transfer Center",
+        "wikipedia": "en:Halkalı railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7665286,
+          41.0183702
+        ]
+      },
+      "id": "node/2253949587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2360893097",
+        "internet_access": "no",
+        "name": "Kaynarca",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q43398839",
+        "wikimedia_commons": "File:Kaynarca Tren İstasyonu.jpg",
+        "wikipedia": "tr:Kaynarca Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2559607,
+          40.8713685
+        ]
+      },
+      "id": "node/2360893097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370143084",
+        "name": "Fıstıkağacı",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46599122",
+        "wikimedia_commons": "Category:Fıstıkağacı Station",
+        "wikipedia": "tr:Fıstıkağacı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0283579,
+          41.0281537
+        ]
+      },
+      "id": "node/2370143084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511296163",
+        "name": "Yenikapı",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "toilets:wheelchair": "yes",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18712646",
+        "wikimedia_commons": "Category:Yenikapı Transfer Center",
+        "wikipedia": "tr:Yenikapı Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9515608,
+          41.0051614
+        ]
+      },
+      "id": "node/2511296163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2623370290",
+        "ele": "226",
+        "name": "Çayırdere",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q97334717",
+        "wikipedia": "tr:Çayırdere Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1217427,
+          41.2599697
+        ]
+      },
+      "id": "node/2623370290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2625912908",
+        "ele": "60",
+        "name": "Kabakça",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q97334709",
+        "wikipedia": "tr:Kabakça Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3647008,
+          41.215506
+        ]
+      },
+      "id": "node/2625912908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2625916043",
+        "name": "Çatalca",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q97334701",
+        "wikimedia_commons": "Category:Çatalca railway station",
+        "wikipedia": "tr:Çatalca Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.480199,
+          41.1505914
+        ]
+      },
+      "id": "node/2625916043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3208558101",
+        "name": "Olimpiyat",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q47004452",
+        "wikimedia_commons": "Category:Olimpiyat (M9) Station",
+        "wikipedia": "tr:Olimpiyat (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7672398,
+          41.0795735
+        ]
+      },
+      "id": "node/3208558101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3219831111",
+        "name": "Ziya Gökalp",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q48803902",
+        "wikimedia_commons": "Category:Ziya Gökalp Mahallesi Station",
+        "wikipedia": "tr:Ziya Gökalp Mahallesi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7864545,
+          41.0745493
+        ]
+      },
+      "id": "node/3219831111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3219831127",
+        "name": "İSTOÇ",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q22952128",
+        "wikimedia_commons": "Category:İSTOÇ Station",
+        "wikipedia": "tr:İSTOÇ (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8260353,
+          41.0649898
+        ]
+      },
+      "id": "node/3219831127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3219831134",
+        "name": "Mahmutbey",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q47004328",
+        "wikimedia_commons": "Category:Mahmutbey (M3) Station",
+        "wikipedia": "tr:Mahmutbey (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8306301,
+          41.0551119
+        ]
+      },
+      "id": "node/3219831134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3243585071",
+        "name": "Başak Konutları",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18787577",
+        "wikimedia_commons": "Category:Başak Konutları Station",
+        "wikipedia": "tr:Başak Konutları (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7913461,
+          41.0978061
+        ]
+      },
+      "id": "node/3243585071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3243585072",
+        "name": "Metrokent",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q20718061",
+        "wikimedia_commons": "Category:Metrokent Station",
+        "wikipedia": "tr:Başakşehir-Metrokent (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8014943,
+          41.1081483
+        ]
+      },
+      "id": "node/3243585072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3243585073",
+        "name": "İkitelli Sanayi",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18787673",
+        "wikimedia_commons": "Category:İkitelli Sanayi Station",
+        "wikipedia": "tr:İkitelli Sanayi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.803895,
+          41.0711324
+        ]
+      },
+      "id": "node/3243585073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3305442183",
+        "ele": "0",
+        "name": "Kazlıçeşme",
+        "name:ru": "Казлычешме",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q19611659",
+        "wikimedia_commons": "Category:Kazlıçeşme railway station",
+        "wikipedia": "tr:Kazlıçeşme Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9168903,
+          40.9926732
+        ]
+      },
+      "id": "node/3305442183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3755456221",
+        "name": "Levent",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q20470914",
+        "wikimedia_commons": "Category:Levent Transfer Center",
+        "wikipedia": "en:Levent (Istanbul Metro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0144803,
+          41.0758404
+        ]
+      },
+      "id": "node/3755456221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3892496903",
+        "name": "Vezneciler-İstanbul Üniversitesi",
+        "name:ar": "فيزنيجيلار",
+        "name:ru": "Везнеджилер",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18712611",
+        "wikimedia_commons": "Category:Vezneciler Station",
+        "wikipedia": "tr:Vezneciler (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9597006,
+          41.0122525
+        ]
+      },
+      "id": "node/3892496903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3937514080",
+        "addr:city": "İstanbul",
+        "addr:district": "Beşiktaş",
+        "addr:housenumber": "no:111",
+        "addr:postcode": "34335",
+        "addr:street": "Nispetiye Caddesi",
+        "bus": "yes",
+        "name": "Nispetiye",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q47004404",
+        "wikimedia_commons": "Category:Nispetiye Station",
+        "wikipedia": "tr:Nispetiye (İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0240046,
+          41.0773859
+        ]
+      },
+      "id": "node/3937514080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3937514082",
+        "name": "Etiler",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q47000639",
+        "wikimedia_commons": "Category:Etiler Station",
+        "wikipedia": "tr:Etiler (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0375989,
+          41.0824567
+        ]
+      },
+      "id": "node/3937514082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213777340",
+        "name": "Ünalan",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q46642861",
+        "wikimedia_commons": "Category:Ünalan Station",
+        "wikipedia": "tr:Ünalan (İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0600259,
+          40.9980939
+        ]
+      },
+      "id": "node/4213777340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213777682",
+        "name": "Gayrettepe",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "not:network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q113560015",
+        "wikimedia_commons": "Category:Gayrettepe (M11) Station",
+        "wikipedia": "tr:Gayrettepe (M11, İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0106451,
+          41.0668589
+        ]
+      },
+      "id": "node/4213777682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4304511881",
+        "name": "Yeni Mahalle",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q97209252",
+        "wikipedia": "tr:Yenimahalle (İstanbul tramvayı)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8359881,
+          41.0404044
+        ]
+      },
+      "id": "node/4304511881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4304536080",
+        "name": "Turgut Özal",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18788006",
+        "wikimedia_commons": "Category:Turgut Özal Station",
+        "wikipedia": "tr:Turgut Özal (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7975395,
+          41.0812047
+        ]
+      },
+      "id": "node/4304536080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4304536085",
+        "name": "Siteler",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18787931",
+        "wikimedia_commons": "Category:Siteler Station",
+        "wikipedia": "tr:Siteler (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7965629,
+          41.0882324
+        ]
+      },
+      "id": "node/4304536085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4439882732",
+        "name": "Pendik",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46803671",
+        "wikimedia_commons": "Category:Pendik Station",
+        "wikipedia": "tr:Pendik (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.238581,
+          40.8886547
+        ]
+      },
+      "id": "node/4439882732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440049391",
+        "name": "Tavşantepe",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46804700",
+        "wikimedia_commons": "Category:Tavşantepe Station",
+        "wikipedia": "tr:Tavşantepe (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2488342,
+          40.882159
+        ]
+      },
+      "id": "node/4440049391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442132431",
+        "name": "Yakacık—Adnan Kahveci",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46792245",
+        "wikimedia_commons": "Category:Yakacık - Adnan Kahveci Station",
+        "wikipedia": "tr:Yakacık-Adnan Kahveci (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2271263,
+          40.8966262
+        ]
+      },
+      "id": "node/4442132431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5084106192",
+        "name": "Tersane",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q58814868",
+        "wikimedia_commons": "Category:Tersane railway station",
+        "wikipedia": "tr:Tersane Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2732939,
+          40.8611643
+        ]
+      },
+      "id": "node/5084106192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5084119890",
+        "name": "Güzelyalı",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q58814865",
+        "wikimedia_commons": "Category:Güzelyalı railway station",
+        "wikipedia": "tr:Güzelyalı Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2836051,
+          40.8568284
+        ]
+      },
+      "id": "node/5084119890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5084128493",
+        "name": "Aydıntepe",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q55604581",
+        "wikimedia_commons": "Category:Aydıntepe railway station",
+        "wikipedia": "tr:Aydıntepe Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2931959,
+          40.8522949
+        ]
+      },
+      "id": "node/5084128493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5084138614",
+        "name": "İçmeler",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q111807904",
+        "wikimedia_commons": "File:İçmeler Tren İstasyonu.jpg",
+        "wikipedia": "tr:İçmeler/Tuzla Belediyesi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3000382,
+          40.8456867
+        ]
+      },
+      "id": "node/5084138614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5084154170",
+        "name": "Tuzla",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q43398837",
+        "wikimedia_commons": "Category:Tuzla railway station",
+        "wikipedia": "tr:Tuzla Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3224266,
+          40.8299498
+        ]
+      },
+      "id": "node/5084154170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5218796192",
+        "name": "Levent",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q20470914",
+        "wikimedia_commons": "Category:Levent Transfer Center",
+        "wikipedia": "tr:Levent (M2, İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0137913,
+          41.0768932
+        ]
+      },
+      "id": "node/5218796192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5272471218",
+        "name": "Bostancı",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q4947652",
+        "wikimedia_commons": "Category:Bostancı railway station",
+        "wikipedia": "tr:Bostancı Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0949153,
+          40.9539279
+        ]
+      },
+      "id": "node/5272471218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5286349755",
+        "name": "Yamanevler",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q46618973",
+        "wikimedia_commons": "Category:Yamanevler Station",
+        "wikipedia": "tr:Yamanevler (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1087471,
+          41.0242009
+        ]
+      },
+      "id": "node/5286349755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5286349759",
+        "name": "Kısıklı",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q46603453",
+        "wikimedia_commons": "Category:Kısıklı Station",
+        "wikipedia": "tr:Kısıklı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0620794,
+          41.0221852
+        ]
+      },
+      "id": "node/5286349759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5286349760",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Altunizade",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "public_transport:version": "2",
+        "railway": "station",
+        "ref": "M5",
+        "shelter": "yes",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q46602031",
+        "wikimedia_commons": "Category:Altunizade_(M5)_Station",
+        "wikipedia": "tr:Altunizade (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0483118,
+          41.021911
+        ]
+      },
+      "id": "node/5286349760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5286349761",
+        "name": "Bağlarbaşı",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q46601103",
+        "wikimedia_commons": "Category:Bağlarbaşı Station",
+        "wikipedia": "tr:Bağlarbaşı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0368747,
+          41.0214561
+        ]
+      },
+      "id": "node/5286349761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5298185983",
+        "addr:city": "İstanbul",
+        "addr:district": "Kadıköy",
+        "addr:neighbourhood": "Suadiye Mahallesi",
+        "addr:postcode": "34740",
+        "name": "Suadiye",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q48989341",
+        "wikimedia_commons": "Category:Suadiye railway station",
+        "wikipedia": "en:Suadiye railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0844637,
+          40.9605007
+        ]
+      },
+      "id": "node/5298185983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5442551070",
+        "ele": "-56",
+        "name": "Üsküdar",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "train",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46593284",
+        "wikimedia_commons": "Category:Üsküdar Station",
+        "wikipedia": "tr:Üsküdar Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0131466,
+          41.0256394
+        ]
+      },
+      "id": "node/5442551070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5885475439",
+        "name": "Bakırköy",
+        "name:uk": "Бакиркьой",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q4849621",
+        "wikimedia_commons": "Category:Bakırköy railway station",
+        "wikipedia": "tr:Bakırköy Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8724259,
+          40.9803562
+        ]
+      },
+      "id": "node/5885475439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6004548605",
+        "name": "Çekmeköy",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q61077102",
+        "wikimedia_commons": "Category:Çekmeköy Station",
+        "wikipedia": "tr:Çekmeköy (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1895134,
+          41.0145289
+        ]
+      },
+      "id": "node/6004548605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6004548606",
+        "name": "Necip Fazıl",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q61077116",
+        "wikimedia_commons": "Category:Necip Fazıl Station",
+        "wikipedia": "tr:Necip Fazıl (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1794304,
+          41.0160135
+        ]
+      },
+      "id": "node/6004548606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6004548607",
+        "name": "Dudullu",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q61077115",
+        "wikimedia_commons": "Category:Dudullu (M5) Station",
+        "wikipedia": "tr:Dudullu (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1631878,
+          41.0153698
+        ]
+      },
+      "id": "node/6004548607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6004548608",
+        "name": "İmam Hatip Lisesi",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q61077112",
+        "wikimedia_commons": "Category:Imam Hatip Lisesi Station",
+        "wikipedia": "tr:İmam Hatip Lisesi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1517449,
+          41.0160466
+        ]
+      },
+      "id": "node/6004548608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6004548609",
+        "name": "Altınşehir",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q61077108",
+        "wikimedia_commons": "Category:Altınşehir Station",
+        "wikipedia": "tr:Altınşehir (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1400344,
+          41.0166656
+        ]
+      },
+      "id": "node/6004548609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6004548610",
+        "name": "Ihlamurkuyu",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q61077105",
+        "wikimedia_commons": "Category:Ihlamurkuyu Station",
+        "wikipedia": "tr:Ihlamurkuyu (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1306269,
+          41.0197808
+        ]
+      },
+      "id": "node/6004548610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6004548611",
+        "name": "Çakmak",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q61077106",
+        "wikimedia_commons": "Category:Çakmak Station",
+        "wikipedia": "tr:Çakmak (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1186259,
+          41.0215971
+        ]
+      },
+      "id": "node/6004548611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6251280785",
+        "light_rail": "yes",
+        "name": "Vadi İstanbul",
+        "name:en": "Vadistanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "wikidata": "Q48702993",
+        "wikimedia_commons": "Category:Vadistanbul Station",
+        "wikipedia": "en:Vadistanbul (Istanbul Metro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9884311,
+          41.1075562
+        ]
+      },
+      "id": "node/6251280785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6312448729",
+        "name": "Fevzi Çakmak - Hastane",
+        "network": "M4",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q100411508",
+        "wikimedia_commons": "Category:Fevzi Çakmak - Hastane Station",
+        "wikipedia": "tr:Fevzi Çakmak-Hastane (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2624462,
+          40.8888001
+        ]
+      },
+      "id": "node/6312448729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6312448730",
+        "name": "Yayalar-Şeyhli",
+        "network": "M4",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q100411596",
+        "wikimedia_commons": "Category:Yayalar - Şeyhli Station",
+        "wikipedia": "tr:Yayalar-Şeyhli (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2757138,
+          40.9040157
+        ]
+      },
+      "id": "node/6312448730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6312448731",
+        "name": "Sabiha Gökçen Havalimanı",
+        "network": "M4",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q97208556",
+        "wikimedia_commons": "Category:Sabiha Gökçen Havalimanı Station",
+        "wikipedia": "tr:Sabiha Gökçen Havalimanı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3114591,
+          40.9065703
+        ]
+      },
+      "id": "node/6312448731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6321654790",
+        "name": "Söğütlüçeşme",
+        "name:ru": "Сёгутлючешме",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q7666457",
+        "wikimedia_commons": "File:Sogutlucesme Marmaray station.jpg",
+        "wikipedia": "tr:Söğütlüçeşme Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0376538,
+          40.9910017
+        ]
+      },
+      "id": "node/6321654790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6325698566",
+        "internet_access": "no",
+        "name": "Ataköy",
+        "network": "Marmaray",
+        "operator": "TCDD",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q92214307",
+        "wikimedia_commons": "Category:Ataköy railway station",
+        "wikipedia": "tr:Ataköy Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8562265,
+          40.9802282
+        ]
+      },
+      "id": "node/6325698566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328169449",
+        "name": "Florya Akvaryum",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q92206855",
+        "wikipedia": "tr:Florya Akvaryum Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7969885,
+          40.9678261
+        ]
+      },
+      "id": "node/6328169449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328169450",
+        "name": "Mustafa Kemal",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q24911532",
+        "wikimedia_commons": "Category:Mustafa Kemal railway station",
+        "wikipedia": "tr:Mustafa Kemal Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7738899,
+          41.0061764
+        ]
+      },
+      "id": "node/6328169450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328169451",
+        "name": "Küçükçekmece",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q58814862",
+        "wikimedia_commons": "Category:Küçükçekmece railway station",
+        "wikipedia": "tr:Küçükçekmece Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7729647,
+          40.9885202
+        ]
+      },
+      "id": "node/6328169451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328169452",
+        "name": "Feneryolu",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q15136719",
+        "wikimedia_commons": "File:Istanbul asv2021-11 img54 Feneryolu station.jpg",
+        "wikipedia": "tr:Feneryolu Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0487327,
+          40.9788502
+        ]
+      },
+      "id": "node/6328169452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328169453",
+        "name": "Başak",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q58814877",
+        "wikimedia_commons": "File:Başak Tren İstasyonu.jpg",
+        "wikipedia": "tr:Başak Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1774971,
+          40.890264
+        ]
+      },
+      "id": "node/6328169453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6364525813",
+        "name": "Kurtköy",
+        "network": "M4",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q100411666",
+        "wikimedia_commons": "Category:Kurtköy Station",
+        "wikipedia": "tr:Kurtköy (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2967277,
+          40.9098874
+        ]
+      },
+      "id": "node/6364525813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6395978813",
+        "ele": "-60",
+        "internet_access": "yes",
+        "name": "Sirkeci",
+        "name:en": "Sirkeci Marmaray Underground Station",
+        "name:fa": "سرکه‌چی مارمارای",
+        "name:tr": "Sirkeci Marmaray İstasyonu",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikipedia": "tr:Sirkeci Garı"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9771437,
+          41.0136066
+        ]
+      },
+      "id": "node/6395978813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6398327971",
+        "light_rail": "yes",
+        "name": "Seyrantepe",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "light_rail",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9947104,
+          41.1030755
+        ]
+      },
+      "id": "node/6398327971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507293770",
+        "name": "Yıldız",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050618",
+        "wikimedia_commons": "Category:Yıldız Station",
+        "wikipedia": "tr:Yıldız (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.009666,
+          41.054072
+        ]
+      },
+      "id": "node/6507293770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507303852",
+        "name": "Nurtepe",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q105427153",
+        "wikimedia_commons": "Category:Nurtepe Station",
+        "wikipedia": "tr:Nurtepe (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9634762,
+          41.0798589
+        ]
+      },
+      "id": "node/6507303852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507303853",
+        "name": "Alibeyköy",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q104006823",
+        "wikimedia_commons": "Category:Alibeyköy Station",
+        "wikipedia": "tr:Alibeyköy (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.949577,
+          41.0791413
+        ]
+      },
+      "id": "node/6507303853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507303868",
+        "name": "Kağıthane",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q55887158",
+        "wikimedia_commons": "Category:Kâğıthane (M7) Station",
+        "wikipedia": "tr:Kâğıthane (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9731198,
+          41.0796544
+        ]
+      },
+      "id": "node/6507303868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507303869",
+        "name": "Fulya",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050617",
+        "wikimedia_commons": "Category:Fulya Station",
+        "wikipedia": "tr:Fulya (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0069778,
+          41.0623115
+        ]
+      },
+      "id": "node/6507303869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507323101",
+        "name": "Giyimkent-Tekstilkent",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q107050615",
+        "wikimedia_commons": "Category:Giyimkent - Tekstilkent Station",
+        "wikipedia": "tr:Giyimkent-Tekstilkent (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8667756,
+          41.0712858
+        ]
+      },
+      "id": "node/6507323101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507323102",
+        "name": "Karadeniz Mahallesi",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q106778206",
+        "wikimedia_commons": "Category:Karadeniz Mahallesi Station",
+        "wikipedia": "tr:Karadeniz Mahallesi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8750965,
+          41.081247
+        ]
+      },
+      "id": "node/6507323102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507323105",
+        "name": "Çırçır",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q97567996",
+        "wikimedia_commons": "Category:Çırçır Station",
+        "wikipedia": "tr:Çırçır (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9363025,
+          41.0801289
+        ]
+      },
+      "id": "node/6507323105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507323106",
+        "name": "Veysel Karani-Akşemsettin",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q107050612",
+        "wikimedia_commons": "Category:Veysel Karani - Akşemsettin Station",
+        "wikipedia": "tr:Veysel Karani - Akşemsettin (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9281287,
+          41.0795812
+        ]
+      },
+      "id": "node/6507323106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507323107",
+        "name": "Yeşilpınar",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q107050613",
+        "wikimedia_commons": "Category:Yeşilpınar Station",
+        "wikipedia": "tr:Yeşilpınar (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9182892,
+          41.0822903
+        ]
+      },
+      "id": "node/6507323107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507323108",
+        "name": "Kâzım Karabekir",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q107050614",
+        "wikimedia_commons": "Category:Kâzım Karabekir Station",
+        "wikipedia": "tr:Kâzım Karabekir (M7, İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9085323,
+          41.0853315
+        ]
+      },
+      "id": "node/6507323108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507323109",
+        "name": "Yenimahalle",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q105905468",
+        "wikimedia_commons": "Category:Yenimahalle (M7) Station",
+        "wikipedia": "tr:Yenimahalle (M7, İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8927638,
+          41.0838895
+        ]
+      },
+      "id": "node/6507323109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507340892",
+        "name": "Çağlayan",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q105388397",
+        "wikimedia_commons": "Category:Çağlayan Station",
+        "wikipedia": "tr:Çağlayan (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9805133,
+          41.0707068
+        ]
+      },
+      "id": "node/6507340892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6513129437",
+        "name": "Parseller",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050629",
+        "wikimedia_commons": "Category:Parseller Station",
+        "wikipedia": "tr:Parseller (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1527388,
+          41.0312427
+        ]
+      },
+      "id": "node/6513129437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6513129456",
+        "name": "Huzur",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050628",
+        "wikimedia_commons": "Category:Huzur Station",
+        "wikipedia": "tr:Huzur (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1595862,
+          41.022602
+        ]
+      },
+      "id": "node/6513129456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6690847579",
+        "addr:city": "Istanbul",
+        "addr:district": "Kadıköy",
+        "addr:housenumber": "61",
+        "addr:neighbourhood": "Göztepe",
+        "addr:postcode": "34730",
+        "addr:street": "Yeşilbahar Sokağı",
+        "name": "Göztepe",
+        "network": "Marmaray",
+        "network:wikidata": "Q497844",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q5626765",
+        "wikimedia_commons": "Category:Göztepe railway station",
+        "wikipedia": "en:Göztepe railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0626271,
+          40.9792106
+        ]
+      },
+      "id": "node/6690847579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6763426868",
+        "name": "Kirazlı",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q18787706",
+        "wikimedia_commons": "Category:Kirazlı (M1) Station",
+        "wikipedia": "tr:Kirazlı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8422874,
+          41.0318236
+        ]
+      },
+      "id": "node/6763426868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6763426869",
+        "name": "Davutpaşa - YTÜ",
+        "network": "İstanbul M1A Metro Hattı",
+        "operator": "İBB",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q21524960",
+        "wikimedia_commons": "Category:Davutpaşa—YTÜ Station",
+        "wikipedia": "tr:Davutpaşa - YTÜ (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.900375,
+          41.0202193
+        ]
+      },
+      "id": "node/6763426869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6763426870",
+        "name": "Bakırköy-İncirli",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q20988314",
+        "wikimedia_commons": "Category:Bakırköy—İncirli Station",
+        "wikipedia": "tr:Bakırköy - İncirli (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8753616,
+          40.9966207
+        ]
+      },
+      "id": "node/6763426870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6917432727",
+        "name": "Onurkent",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q109315684",
+        "wikimedia_commons": "Category:Onurkent Station",
+        "wikipedia": "tr:Onurkent (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7905007,
+          41.1134023
+        ]
+      },
+      "id": "node/6917432727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6917432760",
+        "name": "Toplu Konutlar",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q109315656",
+        "wikimedia_commons": "Category:Toplu Konutlar (M3) Station",
+        "wikipedia": "tr:Toplu Konutlar (M3, İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7678634,
+          41.1076913
+        ]
+      },
+      "id": "node/6917432760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6917888494",
+        "name": "Kayaşehir Merkez",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q109315035",
+        "wikimedia_commons": "Category:Kayaşehir Merkez (M3) Station",
+        "wikipedia": "tr:Kayaşehir Merkez (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7663353,
+          41.1190792
+        ]
+      },
+      "id": "node/6917888494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932303066",
+        "name": "Samandıra Merkez",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q100411162",
+        "wikimedia_commons": "Category:Samandıra Merkez Station",
+        "wikipedia": "tr:Samandıra Merkez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2314094,
+          40.9836831
+        ]
+      },
+      "id": "node/6932303066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932303073",
+        "name": "Sancaktepe",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q100411105",
+        "wikimedia_commons": "Category:Sancaktepe Station",
+        "wikipedia": "tr:Sancaktepe (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2290134,
+          40.9920567
+        ]
+      },
+      "id": "node/6932303073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932313803",
+        "name": "Meclis",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q100410801",
+        "wikimedia_commons": "Category:Meclis Station",
+        "wikipedia": "tr:Meclis (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.198884,
+          41.0096577
+        ]
+      },
+      "id": "node/6932313803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932388157",
+        "name": "MODOKO-KEYAP",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q107050627",
+        "wikimedia_commons": "Category:MODOKO-KEYAP Station",
+        "wikipedia": "tr:MODOKO - KEYAP (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1620118,
+          41.0074042
+        ]
+      },
+      "id": "node/6932388157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932388169",
+        "name": "İMES",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050626",
+        "wikimedia_commons": "Category:İMES Station",
+        "wikipedia": "tr:İMES (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.155986,
+          41.000233
+        ]
+      },
+      "id": "node/6932388169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932388177",
+        "name": "Mevlana",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050625",
+        "wikimedia_commons": "Category:Mevlana Station",
+        "wikipedia": "tr:Mevlana (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1533813,
+          40.9921566
+        ]
+      },
+      "id": "node/6932388177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932391790",
+        "name": "Kayışdağı",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050624",
+        "wikimedia_commons": "Category:Kayışdağı Station",
+        "wikipedia": "tr:Kayışdağı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1377413,
+          40.9846866
+        ]
+      },
+      "id": "node/6932391790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932391800",
+        "name": "İçerenköy",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q107050623",
+        "wikimedia_commons": "Category:İçerenköy Station",
+        "wikipedia": "tr:İçerenköy (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1262074,
+          40.9789595
+        ]
+      },
+      "id": "node/6932391800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932391829",
+        "name": "Küçükbakkalköy",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050622",
+        "wikimedia_commons": "Category:Küçükbakkalköy Station",
+        "wikipedia": "tr:Küçükbakkalköy (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1118694,
+          40.978931
+        ]
+      },
+      "id": "node/6932391829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934009752",
+        "name": "Ayşekadın",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050621",
+        "wikimedia_commons": "Category:Ayşekadın Station",
+        "wikipedia": "tr:Ayşekadın (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0867801,
+          40.9668107
+        ]
+      },
+      "id": "node/6934009752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934009766",
+        "name": "Emin Ali Paşa",
+        "network": "M8",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050620",
+        "wikimedia_commons": "Category:Emin Ali Paşa Station",
+        "wikipedia": "tr:Emin Ali Paşa (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.093549,
+          40.9606909
+        ]
+      },
+      "id": "node/6934009766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992407049",
+        "name": "Kemerburgaz",
+        "network": "M11",
+        "operator": "TCDD Taşımacılık",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050649",
+        "wikimedia_commons": "Category:Kemerburgaz Station",
+        "wikipedia": "tr:Kemerburgaz (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9102378,
+          41.1591813
+        ]
+      },
+      "id": "node/6992407049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7246055799",
+        "name": "İstanbul Havalimanı",
+        "name:it": "Aeroporto di Istanbul",
+        "name:tk": "Stambul Gonalgasy",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q97210232",
+        "wikimedia_commons": "Category:Istanbul Havalimanı Station",
+        "wikipedia": "tr:İstanbul Havalimanı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7425561,
+          41.2559331
+        ]
+      },
+      "id": "node/7246055799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7563017056",
+        "name": "Kozyatağı",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46704798",
+        "wikimedia_commons": "Category:Kozyatağı_(M4)_Station",
+        "wikipedia": "tr:Kozyatağı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0996756,
+          40.97539
+        ]
+      },
+      "id": "node/7563017056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592073076",
+        "name": "Ümraniye",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46610654",
+        "wikimedia_commons": "Category:Ümraniye Station",
+        "wikipedia": "tr:Ümraniye (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0847972,
+          41.024613
+        ]
+      },
+      "id": "node/7592073076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7592762370",
+        "name": "Çarşı",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46614136",
+        "wikimedia_commons": "Category:Çarşı Station",
+        "wikipedia": "tr:Çarşı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.097392,
+          41.0259405
+        ]
+      },
+      "id": "node/7592762370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7597279541",
+        "name": "Yenikapı",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18712646",
+        "wikimedia_commons": "Category:Yenikapı Transfer Center",
+        "wikipedia": "tr:Yenikapı Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9514872,
+          41.0056529
+        ]
+      },
+      "id": "node/7597279541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7673925409",
+        "name": "Kirazlı",
+        "network": "M3",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q113506602",
+        "wikimedia_commons": "Category:Kirazlı (M3) Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8429812,
+          41.03199
+        ]
+      },
+      "id": "node/7673925409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7680399992",
+        "air_conditioning": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Üsküdar",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46593284",
+        "wikimedia_commons": "Category:Üsküdar Station",
+        "wikipedia": "tr:Üsküdar (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0127634,
+          41.0253395
+        ]
+      },
+      "id": "node/7680399992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7713018888",
+        "name": "Hastane Adliye",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46729278",
+        "wikimedia_commons": "Category:Hastane - Adliye Station",
+        "wikipedia": "tr:Hastane-Adliye (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1783001,
+          40.9163935
+        ]
+      },
+      "id": "node/7713018888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7721147946",
+        "check_date": "2025-04-07",
+        "name": "Haliç",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18786563",
+        "wikimedia_commons": "Category:Haliç Station",
+        "wikipedia": "tr:Haliç (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9666792,
+          41.02269
+        ]
+      },
+      "id": "node/7721147946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7721147948",
+        "layer": "-2",
+        "name": "Şişhane",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q19613987",
+        "wikimedia_commons": "Category:Şişhane Station",
+        "wikipedia": "tr:Şişhane (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9727191,
+          41.0282743
+        ]
+      },
+      "id": "node/7721147948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7721147949",
+        "name": "Taksim",
+        "name:ar": "تقسيم",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q16952987",
+        "wikimedia_commons": "Category:Taksim Transfer Center",
+        "wikipedia": "tr:Taksim (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.985549,
+          41.0380506
+        ]
+      },
+      "id": "node/7721147949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7721147951",
+        "name": "Osmanbey",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q20718086",
+        "wikimedia_commons": "Category:Osmanbey Station",
+        "wikipedia": "tr:Osmanbey (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9874046,
+          41.0527755
+        ]
+      },
+      "id": "node/7721147951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7721147954",
+        "addr:street": "Halaskargazi Caddesi",
+        "name": "Şişli",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q19613989",
+        "wikimedia_commons": "Category:Şişli-Mecidiyeköy Station",
+        "wikipedia": "tr:Şişli-Mecidiyeköy (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9927696,
+          41.0645059
+        ]
+      },
+      "id": "node/7721147954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103243",
+        "name": "Bağcılar Meydan",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q28197516",
+        "wikimedia_commons": "Category:Bağcılar Meydan Station",
+        "wikipedia": "tr:Bağcılar Meydan (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8566398,
+          41.0346825
+        ]
+      },
+      "id": "node/7722103243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103244",
+        "name": "Üçyüzlü",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q21528350",
+        "wikimedia_commons": "Category:Üçyüzlü Station",
+        "wikipedia": "tr:Üçyüzlü (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8706993,
+          41.0367017
+        ]
+      },
+      "id": "node/7722103244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103245",
+        "name": "Menderes",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q21526608",
+        "wikimedia_commons": "Category:Menderes Station",
+        "wikipedia": "tr:Menderes (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8784952,
+          41.0427411
+        ]
+      },
+      "id": "node/7722103245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103246",
+        "name": "Esenler",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q21525098",
+        "wikipedia": "tr:Esenler (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8885873,
+          41.0375744
+        ]
+      },
+      "id": "node/7722103246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103247",
+        "name": "Otogar",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q18809273",
+        "wikimedia_commons": "Category:Otogar Station",
+        "wikipedia": "tr:Otogar (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8946029,
+          41.0402205
+        ]
+      },
+      "id": "node/7722103247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103248",
+        "name": "Kocatepe",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q23707243",
+        "wikimedia_commons": "Category:Kocatepe Station",
+        "wikipedia": "tr:Kocatepe (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8955023,
+          41.0484385
+        ]
+      },
+      "id": "node/7722103248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103249",
+        "name": "Sağmalcılar",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q20718118",
+        "wikimedia_commons": "Category:Sağmalcılar Station",
+        "wikipedia": "tr:Sağmalcılar (İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9071541,
+          41.0408592
+        ]
+      },
+      "id": "node/7722103249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103250",
+        "name": "Bayrampaşa-Maltepe",
+        "name:ar": "بيرام باشا - مال تيبي",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q20313065",
+        "wikimedia_commons": "Category:Bayrampaşa - Maltepe Station",
+        "wikipedia": "tr:Bayrampaşa - Maltepe (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9202619,
+          41.0341105
+        ]
+      },
+      "id": "node/7722103250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103251",
+        "name": "Topkapı Ulubatlı",
+        "name:ar": "محطة مترو توبكابي أولوباتلِ",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q20718167",
+        "wikimedia_commons": "Category:Topkapı - Ulubatlı Station",
+        "wikipedia": "tr:Topkapı - Ulubatlı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9305575,
+          41.0239057
+        ]
+      },
+      "id": "node/7722103251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103254",
+        "name": "Aksaray",
+        "name:ar": "أكساراي",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q19610449",
+        "wikimedia_commons": "Category:Aksaray Station",
+        "wikipedia": "en:Aksaray (Istanbul Metro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9481445,
+          41.0119976
+        ]
+      },
+      "id": "node/7722103254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103255",
+        "layer": "-2",
+        "name": "Yenikapı",
+        "name:ar": "محطة مترو يني كابي (M1)",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q18712646",
+        "wikimedia_commons": "Category:Yenikapı Transfer Center",
+        "wikipedia": "tr:Yenikapı Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9505178,
+          41.0057787
+        ]
+      },
+      "id": "node/7722103255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103256",
+        "name": "Terazidere",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q21527121",
+        "wikipedia": "tr:Terazidere (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8978698,
+          41.0304621
+        ]
+      },
+      "id": "node/7722103256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103257",
+        "name": "Zeytinburnu",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q21527390",
+        "wikimedia_commons": "Category:Zeytinburnu Transfer Center",
+        "wikipedia": "tr:Zeytinburnu (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8899747,
+          41.0017169
+        ]
+      },
+      "id": "node/7722103257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103258",
+        "name": "Merter",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q21526619",
+        "wikimedia_commons": "Category:Merter Station",
+        "wikipedia": "tr:Merter (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8961294,
+          41.0074232
+        ]
+      },
+      "id": "node/7722103258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103259",
+        "name": "Bahçelievler",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q25352377",
+        "wikimedia_commons": "Category:Bahçelievler Station",
+        "wikipedia": "tr:Bahçelievler (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8633136,
+          40.9954814
+        ]
+      },
+      "id": "node/7722103259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103260",
+        "name": "Ataköy-Şirinevler",
+        "network": "M1",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q46811073",
+        "wikimedia_commons": "Category:Ataköy - Şirinevler Station",
+        "wikipedia": "tr:Ataköy - Şirinevler (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8457709,
+          40.9913785
+        ]
+      },
+      "id": "node/7722103260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103261",
+        "name": "Yenibosna",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q21527336",
+        "wikimedia_commons": "Category:Yenibosna (M1) Station",
+        "wikipedia": "tr:Yenibosna (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8368204,
+          40.9893998
+        ]
+      },
+      "id": "node/7722103261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103262",
+        "name": "DTM-İstanbul Fuar Merkezi",
+        "name:ar": "معرض إسطنبول",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q21525028",
+        "wikimedia_commons": "Category:DTM—İstanbul Fuar Merkezi Station",
+        "wikipedia": "tr:DTM - İstanbul Fuar Merkezi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8284735,
+          40.986602
+        ]
+      },
+      "id": "node/7722103262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7722103263",
+        "name": "Atatürk Havalimanı",
+        "name:ar": "مطار أتاتورك",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q18712770",
+        "wikimedia_commons": "Category:Atatürk Havalimanı Station",
+        "wikipedia": "tr:Atatürk Havalimanı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8211267,
+          40.9797455
+        ]
+      },
+      "id": "node/7722103263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7723416062",
+        "name": "Boğaziçi Üniversitesi/Hisarüstü",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q20646948",
+        "wikimedia_commons": "Category:Boğaziçi Üniversitesi - Hisarüstü (M6) Station",
+        "wikipedia": "tr:Boğaziçi Üniversitesi/Hisarüstü (İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0456413,
+          41.0851345
+        ]
+      },
+      "id": "node/7723416062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7725394063",
+        "name": "4. Levent",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q20312758",
+        "wikimedia_commons": "Category:4. Levent Station",
+        "wikipedia": "tr:4. Levent (İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0071653,
+          41.086111
+        ]
+      },
+      "id": "node/7725394063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7725394066",
+        "internet_access": "no",
+        "name": "İTÜ-Ayazağa",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q20717475",
+        "wikimedia_commons": "Category:İTÜ-Ayazağa Station",
+        "wikipedia": "tr:İTÜ-Ayazağa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0209695,
+          41.1080715
+        ]
+      },
+      "id": "node/7725394066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7725394070",
+        "name": "Darüşşafaka",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q20717238",
+        "wikimedia_commons": "Category:Darüşşafaka Station",
+        "wikipedia": "tr:Darüşşafaka (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0250803,
+          41.1292759
+        ]
+      },
+      "id": "node/7725394070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7725394072",
+        "name": "Hacıosman",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q18791428",
+        "wikimedia_commons": "Category:Hacıosman Station",
+        "wikipedia": "tr:Hacıosman (İstanbul Metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0304548,
+          41.1397645
+        ]
+      },
+      "id": "node/7725394072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7726686090",
+        "name": "Oruç Reis - Yüzyıl",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q107050616",
+        "wikimedia_commons": "Category:Oruç Reis Station",
+        "wikipedia": "tr:Yüzyıl - Oruç Reis (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8554546,
+          41.0627949
+        ]
+      },
+      "id": "node/7726686090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7726686093",
+        "name": "Göztepe",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q100980904",
+        "wikimedia_commons": "Category:Göztepe Mahallesi Station",
+        "wikipedia": "tr:Göztepe Mahallesi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8479795,
+          41.056831
+        ]
+      },
+      "id": "node/7726686093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7736966921",
+        "name": "Huzurevi",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46723536",
+        "wikimedia_commons": "Category:Huzurevi Station",
+        "wikipedia": "tr:Huzurevi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1468056,
+          40.9299537
+        ]
+      },
+      "id": "node/7736966921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7736966922",
+        "name": "Gülsuyu",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46724388",
+        "wikimedia_commons": "Category:Gülsuyu Station",
+        "wikipedia": "tr:Gülsuyu (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1547148,
+          40.9238717
+        ]
+      },
+      "id": "node/7736966922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7736966924",
+        "name": "Esenkent",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46727132",
+        "wikimedia_commons": "Category:Esenkent Station",
+        "wikipedia": "tr:Esenkent (M4, İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1664075,
+          40.920837
+        ]
+      },
+      "id": "node/7736966924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7736966926",
+        "name": "Soğanlık",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46734525",
+        "wikimedia_commons": "Category:Soğanlık Station",
+        "wikipedia": "tr:Soğanlık (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1924269,
+          40.9132162
+        ]
+      },
+      "id": "node/7736966926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7974014818",
+        "name": "Şehir Hastanesi",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q109315683",
+        "wikimedia_commons": "Category:Şehir Hastanesi (M3) Station",
+        "wikipedia": "tr:Şehir Hastanesi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7772334,
+          41.1032301
+        ]
+      },
+      "id": "node/7974014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7974014819",
+        "name": "Molla Gürani",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q113512779",
+        "wikimedia_commons": "Category:Molla Gürani Station",
+        "wikipedia": "tr:Molla Gürani (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8479604,
+          41.0259439
+        ]
+      },
+      "id": "node/7974014819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7974014820",
+        "name": "Yıldıztepe",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q113512784",
+        "wikimedia_commons": "Category:Yıldıztepe Station",
+        "wikipedia": "tr:Yıldıztepe (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8577509,
+          41.0194161
+        ]
+      },
+      "id": "node/7974014820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7974014821",
+        "name": "İlkyuva",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q113512786",
+        "wikimedia_commons": "Category:İlkyuva Station",
+        "wikipedia": "tr:İlkyuva (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8655579,
+          41.0116361
+        ]
+      },
+      "id": "node/7974014821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7974014822",
+        "name": "Haznedar",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q113512787",
+        "wikimedia_commons": "Category:Haznedar Station",
+        "wikipedia": "tr:Haznedar (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8716807,
+          41.0046217
+        ]
+      },
+      "id": "node/7974014822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7974014823",
+        "name": "İncirli",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q20988314",
+        "wikimedia_commons": "Category:Bakırköy—İncirli Station",
+        "wikipedia": "tr:Bakırköy - İncirli (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8750558,
+          40.9976332
+        ]
+      },
+      "id": "node/7974014823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7974014824",
+        "name": "Özgürlük Meydanı",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050644",
+        "wikimedia_commons": "Category:Özgürlük Meydanı Station",
+        "wikipedia": "tr:Özgürlük Meydanı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8740542,
+          40.981628
+        ]
+      },
+      "id": "node/7974014824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7974014825",
+        "name": "Bakırköy Sahil",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050645",
+        "wikimedia_commons": "Category:Bakırköy Sahil Station",
+        "wikipedia": "tr:Bakırköy Sahil (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8680322,
+          40.9736492
+        ]
+      },
+      "id": "node/7974014825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7994602524",
+        "name": "Kozyatağı",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q46704798",
+        "wikimedia_commons": "Category:Kozyatağı (M4) Station",
+        "wikipedia": "tr:Kozyatağı (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0998855,
+          40.9774855
+        ]
+      },
+      "id": "node/7994602524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050455173",
+        "level": "-5",
+        "name": "Mecidiyeköy",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q19613989",
+        "wikimedia_commons": "Category:Şişli-Mecidiyeköy Station",
+        "wikipedia": "tr:Şişli-Mecidiyeköy (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9955189,
+          41.0651758
+        ]
+      },
+      "id": "node/8050455173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8768427075",
+        "name": "Atatürk Mahallesi",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q113516920",
+        "wikimedia_commons": "Category:Atatürk Mahallesi (M9) Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7987338,
+          41.0522224
+        ]
+      },
+      "id": "node/8768427075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8768427076",
+        "name": "Bahariye",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107044927",
+        "wikimedia_commons": "Category:Bahariye Station",
+        "wikipedia": "tr:Bahariye (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7993012,
+          41.0584718
+        ]
+      },
+      "id": "node/8768427076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8768427077",
+        "name": "MASKO",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050638",
+        "wikimedia_commons": "Category:MASKO Station",
+        "wikipedia": "tr:MASKO (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8041363,
+          41.0641121
+        ]
+      },
+      "id": "node/8768427077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8768427078",
+        "name": "Halkalı Caddesi",
+        "network": "M9",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107045163",
+        "wikimedia_commons": "Category:Halkalı Caddesi Station",
+        "wikipedia": "tr:Halkalı Caddesi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8065121,
+          41.0450113
+        ]
+      },
+      "id": "node/8768427078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8768427079",
+        "name": "15 Temmuz",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050639",
+        "wikimedia_commons": "Category:15 Temmuz Station",
+        "wikipedia": "tr:15 Temmuz (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.814003,
+          41.036891
+        ]
+      },
+      "id": "node/8768427079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8768427080",
+        "name": "Mimar Sinan",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q107050641",
+        "wikimedia_commons": "Category:Mimar Sinan (M9) Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8165787,
+          41.0250887
+        ]
+      },
+      "id": "node/8768427080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8768427081",
+        "name": "Doğu Sanayi",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q107045048",
+        "wikimedia_commons": "Category:Doğu Sanayi Station",
+        "wikipedia": "tr:Doğu Sanayi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8179193,
+          41.0149413
+        ]
+      },
+      "id": "node/8768427081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8768427082",
+        "alt_name": "İhlas Yuva",
+        "name": "29 Ekim Cumhuriyet",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107045125",
+        "wikimedia_commons": "Category:29 Ekim Cumhuriyet Station",
+        "wikipedia": "tr:29 Ekim Cumhuriyet (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8186101,
+          41.0061738
+        ]
+      },
+      "id": "node/8768427082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8768427083",
+        "name": "Çobançeşme",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050642",
+        "wikimedia_commons": "Category:Çobançeşme Station",
+        "wikipedia": "tr:Çobançeşme (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8226129,
+          40.9997399
+        ]
+      },
+      "id": "node/8768427083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8768427084",
+        "name": "Yenibosna",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q113506180",
+        "wikimedia_commons": "Category:Yenibosna (M9) Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8379196,
+          40.9894427
+        ]
+      },
+      "id": "node/8768427084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8768427085",
+        "name": "Ataköy",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050646",
+        "wikimedia_commons": "Category:Ataköy Station",
+        "wikipedia": "tr:Ataköy (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8562809,
+          40.9799289
+        ]
+      },
+      "id": "node/8768427085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8853285393",
+        "name": "Kağıthane",
+        "network": "M11",
+        "operator": "TCDD Taşımacılık A.Ş.",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q115962847",
+        "wikimedia_commons": "Category:Kâğıthane (M11) Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9765616,
+          41.080086
+        ]
+      },
+      "id": "node/8853285393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8853285986",
+        "name": "Hasdal",
+        "network": "M11",
+        "operator": "TCDD Taşımacılık",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050648",
+        "wikimedia_commons": "Category:Hasdal Station",
+        "wikipedia": "tr:Hasdal (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9468433,
+          41.1212167
+        ]
+      },
+      "id": "node/8853285986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8853491811",
+        "name": "Göktürk",
+        "network": "M11",
+        "operator": "TCDD Taşımacılık",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050650",
+        "wikimedia_commons": "Category:Göktürk Station",
+        "wikipedia": "tr:Göktürk (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8836557,
+          41.1770052
+        ]
+      },
+      "id": "node/8853491811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8872506293",
+        "name": "İhsaniye",
+        "network": "M11",
+        "not:network:wikidata": "Q499967",
+        "operator": "TCDD Taşımacılık",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050651",
+        "wikimedia_commons": "Category:İhsaniye Station",
+        "wikipedia": "tr:İhsaniye (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8089418,
+          41.242904
+        ]
+      },
+      "id": "node/8872506293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8872578520",
+        "name": "Kargo Terminali",
+        "network": "M11",
+        "operator": "TCDD Taşımacılık",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q111253867",
+        "wikimedia_commons": "Category:Kargo Terminali Station",
+        "wikipedia": "tr:Kargo Terminali (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7126953,
+          41.2554335
+        ]
+      },
+      "id": "node/8872578520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9016710169",
+        "name": "Bostancı",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q107050647",
+        "wikimedia_commons": "Category:Bostancı (M8) Station",
+        "wikipedia": "tr:Bostancı (M8, İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0967248,
+          40.9517055
+        ]
+      },
+      "id": "node/9016710169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9164730780",
+        "funicular": "yes",
+        "name": "Taksim",
+        "network": "İstanbul Metrosu",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9866305,
+          41.0367764
+        ]
+      },
+      "id": "node/9164730780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665946450",
+        "access": "yes",
+        "building": "construction",
+        "name": "Konut Birlik",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "opening_date": "2022-06-23",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.763349,
+          41.03461
+        ]
+      },
+      "id": "node/9665946450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665946451",
+        "access": "yes",
+        "building": "construction",
+        "name": "Altınşehir",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "opening_date": "2022-06-23",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q118929992",
+        "wikimedia_commons": "Category:Altınşehir railway station",
+        "wikipedia": "tr:Altınşehir Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7477316,
+          41.0474135
+        ]
+      },
+      "id": "node/9665946451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665946456",
+        "access": "yes",
+        "addr:postcode": "34488",
+        "name": "Bahçeşehir",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "opening_date": "2022-06-23",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://en.m.wikipedia.org/wiki/Halkal%C4%B1-Bah%C3%A7e%C5%9Fehir_Rail_System",
+        "wikidata": "Q112118229",
+        "wikimedia_commons": "Category:Bahçeşehir railway station (Istanbul)",
+        "wikipedia": "tr:Bahçeşehir Tren İstasyonu (İstanbul)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6788126,
+          41.0843995
+        ]
+      },
+      "id": "node/9665946456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9665946458",
+        "access": "yes",
+        "ele": "15",
+        "name": "Ispartakule",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "opening_date": "2022-06-23",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q48989228",
+        "wikimedia_commons": "Category:Ispartakule railway station",
+        "wikipedia": "tr:Ispartakule Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6993173,
+          41.0629265
+        ]
+      },
+      "id": "node/9665946458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10060861945",
+        "name": "Bulgurlu",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q46604381",
+        "wikimedia_commons": "Category:Bulgurlu Station",
+        "wikipedia": "tr:Bulgurlu (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0762576,
+          41.0162865
+        ]
+      },
+      "id": "node/10060861945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10132990392",
+        "name": "Boğaziçi Üniversitesi/Hisarüstü",
+        "network": "İstanbul Metrosu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "wikidata": "Q110228398",
+        "wikimedia_commons": "Category:Boğaziçi Üniversitesi/Hisarüstü (F4) Station",
+        "wikipedia": "tr:Boğaziçi Üniversitesi/Hisarüstü (İstanbul Füniküleri)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0458748,
+          41.0850943
+        ]
+      },
+      "id": "node/10132990392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10132990395",
+        "name": "Aşiyan",
+        "network": "F4",
+        "operator": "Metro İstanbul",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "wikidata": "Q48966872",
+        "wikimedia_commons": "Category:Aşiyan Station",
+        "wikipedia": "tr:Aşiyan (İstanbul füniküleri)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0549987,
+          41.08138
+        ]
+      },
+      "id": "node/10132990395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10702895853",
+        "name": "Taşoluk",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q113514951",
+        "wikimedia_commons": "Category:Taşoluk Station",
+        "wikipedia": "tr:Taşoluk (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.715889,
+          41.2070653
+        ]
+      },
+      "id": "node/10702895853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10702895854",
+        "name": "Arnavutköy Hastane",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q113514955",
+        "wikimedia_commons": "Category:Arnavutköy Hastane Station",
+        "wikipedia": "tr:Arnavutköy Hastane (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7476829,
+          41.1790982
+        ]
+      },
+      "id": "node/10702895854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10799787870",
+        "bus": "yes",
+        "ferry": "yes",
+        "light_rail": "yes",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9404771,
+          41.0416076
+        ]
+      },
+      "id": "node/10799787870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11228793732",
+        "name": "Cankurtaran",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q5032507",
+        "wikimedia_commons": "Category:Cankurtaran railway station",
+        "wikipedia": "tr:Cankurtaran Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9830122,
+          41.0055376
+        ]
+      },
+      "id": "node/11228793732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11492185746",
+        "internet_access": "no",
+        "name": "Sarıgazi",
+        "network": "İstanbul Metrosu",
+        "network:wikidata": "Q498172",
+        "operator": "Metro İstanbul",
+        "operator:wikidata": "Q344299",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q100410711",
+        "wikimedia_commons": "Category:Sarıgazi Station",
+        "wikipedia": "tr:Sarıgazi (İstanbul metrosu)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2126756,
+          41.0100295
+        ]
+      },
+      "id": "node/11492185746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12660716153",
+        "name": "Yedikule",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q8051083",
+        "wikimedia_commons": "Category:Yedikule railway station",
+        "wikipedia": "tr:Yedikule Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9269188,
+          40.9935264
+        ]
+      },
+      "id": "node/12660716153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12660716198",
+        "name": "Kocamustafapaşa",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q6424719",
+        "wikimedia_commons": "Category:Kocamustafapaşa railway station",
+        "wikipedia": "tr:Kocamustafapaşa Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9331768,
+          40.9999287
+        ]
+      },
+      "id": "node/12660716198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12660718806",
+        "name": "Cerrahpaşa",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q117303972",
+        "wikimedia_commons": "Category:Cerrahpaşa railway station",
+        "wikipedia": "tr:Cerrahpaşa Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9402407,
+          41.0028107
+        ]
+      },
+      "id": "node/12660718806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12660718807",
+        "ele": "-20",
+        "name": "Yenikapı",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q18712646",
+        "wikimedia_commons": "Category:Yenikapı Transfer Center",
+        "wikipedia": "tr:Yenikapı Aktarma Merkezi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9524013,
+          41.004765
+        ]
+      },
+      "id": "node/12660718807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12660718808",
+        "name": "Kumkapı",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q11714217",
+        "wikimedia_commons": "Category:Kumkapı railway station",
+        "wikipedia": "tr:Kumkapı Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9629002,
+          41.0033651
+        ]
+      },
+      "id": "node/12660718808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12660718814",
+        "baby_feeding": "no",
+        "ele": "-56",
+        "internet_access": "no",
+        "layer": "1",
+        "name": "Sirkeci",
+        "name:fa": "سرکه‌چی",
+        "network": "Türkiye Cumhuriyeti Devlet Demiryolları",
+        "network:short": "TCDD",
+        "network:wikidata": "Q499967",
+        "operator": "TCDD Taşımacılık",
+        "operator:wikidata": "Q28220824",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q800974",
+        "wikimedia_commons": "Category:Sirkeci Terminal",
+        "wikipedia": "tr:Sirkeci Garı"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.977962,
+          41.0150174
+        ]
+      },
+      "id": "node/12660718814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13140866846",
+        "name": "Ömerli",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q97334696",
+        "wikipedia": "tr:Ömerli Tren İstasyonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6414161,
+          41.1172857
+        ]
+      },
+      "id": "node/13140866846"
+    }
+  ]
+}

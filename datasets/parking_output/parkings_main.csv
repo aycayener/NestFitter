@@ -1,0 +1,507 @@
+name,amenity,shop,leisure,longitude,latitude,_name_raw,_name_norm,_access,_parking_tag,_amenity
+Bilfen Otopark,parking,,,29.059611305025143,41.01575675992284,Bilfen Otopark,bilfen otopark,,,parking
+Pentaş Havaalanı Otoparkı,parking,,,29.309672557974444,40.92455901847118,Pentaş Havaalanı Otoparkı,pentas havaalan otopark,,,parking
+İspark Sabiha Gökçen,parking,,,29.30844394523264,40.9242773103892,İspark Sabiha Gökçen,ispark sabiha gokcen,,,parking
+Ümraniye Eğitim ve Araştırma Hastanesi Otoparkı 1,parking,,,29.101334042086577,41.03111314710016,Ümraniye Eğitim ve Araştırma Hastanesi Otoparkı 1,umraniye egitim ve arast rma hastanesi otopark 1,,,parking
+İstanbul Havalimanı Otoparkı,parking,,,28.74258748087326,41.25774463444,İstanbul Havalimanı Otoparkı,istanbul havaliman otopark,,,parking
+İSPARK,parking,,,29.254022038245697,40.89058747250295,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.25400210092324,40.89026179853048,İSPARK,ispark,,,parking
+Öğrenci Otoparkı,parking,,,29.131925103130303,40.9531075922709,Öğrenci Otoparkı,ogrenci otopark,,,parking
+İSPARK,parking,,,28.97436696629463,41.031918921757246,İSPARK,ispark,,,parking
+Atatürk Havalimanı Otoparkı,parking,,,28.819269086090205,40.97941445405156,Atatürk Havalimanı Otoparkı,ataturk havaliman otopark,,,parking
+Açık Otopark,parking,,garden,28.931723385562705,41.01509096576828,Açık Otopark,ac k otopark,,,parking
+Migros Otoparkı,parking,,,28.940543062890946,41.0159917740715,Migros Otoparkı,migros otopark,,,parking
+Ücretsiz Otopark Alanı,parking,,,28.9327998807768,41.01298987194608,Ücretsiz Otopark Alanı,ucretsiz otopark alan,,,parking
+Otopark,parking,,,28.932521965955303,41.01452471639629,Otopark,otopark,,,parking
+İSPARK Mercan Açık Otoparkı,parking,,,28.967102725966583,41.01355797715005,İSPARK Mercan Açık Otoparkı,ispark mercan ac k otopark,,,parking
+İSPARK,parking,,,28.981600548321133,41.0281038513902,İSPARK,ispark,,,parking
+İspark Suadiye Sahil Açık,parking,,,29.07956975670674,40.9560951805128,İspark Suadiye Sahil Açık,ispark suadiye sahil ac k,,,parking
+İspark Eski Salı Pazarı Otoparkı,parking,,,29.03358037240893,40.990554027167775,İspark Eski Salı Pazarı Otoparkı,ispark eski sal pazar otopark,,,parking
+İspark İçerenköy Açık Otoparkı,parking,,,29.104626591578224,40.977451814506864,İspark İçerenköy Açık Otoparkı,ispark icerenkoy ac k otopark,,,parking
+İspark Kadıköy Açık Otoparkı,parking,,,29.018591642324125,40.98994293249796,İspark Kadıköy Açık Otoparkı,ispark kad koy ac k otopark,,,parking
+Engineering Faculty Parking Lot,parking,,,29.25900354613254,41.02883474734312,Engineering Faculty Parking Lot,engineering faculty parking lot,,,parking
+İspark Şemsipaşa Açık Otoparkı,parking,,,29.0095962895588,41.025480036579445,İspark Şemsipaşa Açık Otoparkı,ispark semsipasa ac k otopark,,,parking
+Gazi Parkı Otoparkı,parking,,,28.901806657207047,41.09508773612323,Gazi Parkı Otoparkı,gazi park otopark,,,parking
+Perpa Ticaret Merkezi Açık Otopark 3,parking,,,28.9711382791632,41.05954081577868,Perpa Ticaret Merkezi Açık Otopark 3,perpa ticaret merkezi ac k otopark 3,,,parking
+İspark Çengelköy Açık Otoparkı,parking,,,29.05339881537498,41.04844229065597,İspark Çengelköy Açık Otoparkı,ispark cengelkoy ac k otopark,,,parking
+Kuledibi Otopark,parking,,,28.9730208697211,41.02715227457157,Kuledibi Otopark,kuledibi otopark,,,parking
+GoPark Merkez Otopark,parking,,,28.915546778524515,41.05699510552233,GoPark Merkez Otopark,gopark merkez otopark,,,parking
+İspark,parking,,,29.02086380837188,40.98949119782135,İspark,ispark,,,parking
+Süreyyapaşa Kat Otoparkı,parking,,,29.029562038404386,40.98788759168185,Süreyyapaşa Kat Otoparkı,sureyyapasa kat otopark,,,parking
+İspark Bostancı İdo Açık Otoparkı 1,parking,,,29.09018427498301,40.95230617205287,İspark Bostancı İdo Açık Otoparkı 1,ispark bostanc ido ac k otopark 1,,,parking
+İspark Kadıköy Dalyan Parkı Açık Otoparkı,parking,,,29.064766374108743,40.96340411501752,İspark Kadıköy Dalyan Parkı Açık Otoparkı,ispark kad koy dalyan park ac k otopark,,,parking
+İspark Caddebostan Açık Otoparkı,parking,,,29.067350622642937,40.9636603678239,İspark Caddebostan Açık Otoparkı,ispark caddebostan ac k otopark,,,parking
+İspark,parking,,,28.789937160449018,40.97122615763328,İspark,ispark,,,parking
+İSPARK,parking,,,28.79450134207413,40.96931747441322,İSPARK,ispark,,,parking
+Sinanpaşa Otopark,parking,,,29.00320936672274,41.04260630145785,Sinanpaşa Otopark,sinanpasa otopark,,,parking
+Süreyyapaşa Göğüs Hastalıkları Hastanesi Misafir Otoparkı,parking,,,29.142526208433072,40.9486252392092,Süreyyapaşa Göğüs Hastalıkları Hastanesi Misafir Otoparkı,sureyyapasa gogus hastal klar hastanesi misafir otopark,,,parking
+Novartis Kurtköy - Otopark,parking,,,29.32137329797084,40.936346345836185,Novartis Kurtköy - Otopark,novartis kurtkoy otopark,,,parking
+Öğrenci Otoparkı,parking,,,29.19336226805304,40.95973351453532,Öğrenci Otoparkı,ogrenci otopark,,,parking
+Öğrenci Otoparkı,parking,,,29.189741444998383,40.95766189293148,Öğrenci Otoparkı,ogrenci otopark,,,parking
+Bauhaus Otopark,parking,,,28.656397147579973,41.01051186415427,Bauhaus Otopark,bauhaus otopark,,,parking
+Yediemin Otopark,parking,,,29.09827496800694,41.09197869450493,Yediemin Otopark,yediemin otopark,,,parking
+Medistate Hastanesi Otoparkı,parking,,,29.100015103100567,41.094079200315306,Medistate Hastanesi Otoparkı,medistate hastanesi otopark,,,parking
+Ortak Otopark,parking,,,29.036667387661083,41.11731148466726,Ortak Otopark,ortak otopark,,,parking
+İspark Çınar Açık Otoparkı,parking,,,29.00871954298652,41.08511064878262,İspark Çınar Açık Otoparkı,ispark c nar ac k otopark,,,parking
+İSPARK,parking,,,29.00767002485445,41.08652922748105,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.008345192759645,41.08610396879396,İSPARK,ispark,,,parking
+Perpa Ticaret Merkezi Açık Otopark 2,parking,,,28.96918567884913,41.06213383348693,Perpa Ticaret Merkezi Açık Otopark 2,perpa ticaret merkezi ac k otopark 2,,,parking
+Cevahir AVM Açık Otopark,parking,,,28.993776594562657,41.06103850295607,Cevahir AVM Açık Otopark,cevahir avm ac k otopark,,,parking
+İspark - Miniatürk,parking,,,28.94947498811469,41.058415331327375,İspark - Miniatürk,ispark miniaturk,,,parking
+Otopark,parking,,,29.295930214744423,41.13618165910541,Otopark,otopark,,,parking
+Karadeniz Otopark,parking,,,28.884486107136592,41.07123874896932,Karadeniz Otopark,karadeniz otopark,,,parking
+Metro Otopark,parking,,,29.122710229798724,40.94746033318618,Metro Otopark,metro otopark,,,parking
+HAPPY CENTER Müşteri Otoparkı,parking,,,29.17899933199084,41.03240101008385,HAPPY CENTER Müşteri Otoparkı,happy center musteri otopark,,,parking
+İspark Pendik Devlet Hastanesi Açık Otoparkı,parking,,,29.22891318996252,40.87747167415908,İspark Pendik Devlet Hastanesi Açık Otoparkı,ispark pendik devlet hastanesi ac k otopark,,,parking
+İspark Suadiye Cep Otoparkı,parking,,,29.07355286697494,40.95848845522169,İspark Suadiye Cep Otoparkı,ispark suadiye cep otopark,,,parking
+İSPARK,parking,,,29.266560833270603,40.9664451821796,İSPARK,ispark,,,parking
+"Koçoğulları Otopark, Oto Yıkama",parking,,,29.262245741833937,40.96749227845036,"Koçoğulları Otopark, Oto Yıkama",kocogullar otopark oto y kama,,,parking
+İZÜ Otoparkı,parking,,,28.78921585627529,41.0322199914363,İZÜ Otoparkı,izu otopark,,,parking
+İspark,parking,,,28.97719208591768,41.00148535349729,İspark,ispark,,,parking
+Taşyapı Özgün Katlı Otopark,parking,,,29.00272605153617,41.06368336184211,Taşyapı Özgün Katlı Otopark,tasyap ozgun katl otopark,,,parking
+Çevre Otopark,parking,,,28.93859042404993,41.008523069347206,Çevre Otopark,cevre otopark,,,parking
+Sultan Katlı Otopark,parking,,,28.975404145631988,41.00976880200158,Sultan Katlı Otopark,sultan katl otopark,,,parking
+İSPARK,parking,,,29.01647116207733,41.10888042531919,İSPARK,ispark,,,parking
+Ekinci Otoparkı,parking,,,28.94616368880731,41.00784670036624,Ekinci Otoparkı,ekinci otopark,,,parking
+Altıntur Otopark,parking,,,28.94476869418495,41.00813764791624,Altıntur Otopark,alt ntur otopark,,,parking
+İSPARK,parking,,,28.876296549443115,40.97371001073842,İSPARK,ispark,,,parking
+İspark Beykoz Sosyal Tesisleri,parking,,,29.08629790338668,41.11337612745629,İspark Beykoz Sosyal Tesisleri,ispark beykoz sosyal tesisleri,,,parking
+İspark,parking,,,29.22857261852384,40.87976899019307,İspark,ispark,,,parking
+Açık Otopark,parking,,,29.126165725779213,40.99111857671043,Açık Otopark,ac k otopark,,,parking
+İspark Söğütlüçeşme Açık Otoparkı,parking,,,29.038335032339297,40.992066066835214,İspark Söğütlüçeşme Açık Otoparkı,ispark sogutlucesme ac k otopark,,,parking
+İspark,parking,,,28.690404534565065,41.06743064809709,İspark,ispark,,,parking
+Tellioğlu Otopark,parking,,,29.087211767437363,41.02619426676379,Tellioğlu Otopark,tellioglu otopark,,,parking
+İSPARK,parking,,,28.92024526664509,41.00443574504693,İSPARK,ispark,,,parking
+Car Parking,parking,,,28.91531455709848,41.00284030563241,Car Parking,car parking,,,parking
+İslambey Otoparkı,parking,,,28.928122517831184,41.05055574882844,İslambey Otoparkı,islambey otopark,,,parking
+ESBAŞ Katlı Otopark,parking,,,28.93454461039021,41.04933899929864,ESBAŞ Katlı Otopark,esbas katl otopark,,,parking
+Öz Emniyet Yediemin Otoparkı,parking,,,29.323786834295483,40.86294924761803,Öz Emniyet Yediemin Otoparkı,oz emniyet yediemin otopark,,,parking
+Bi Mola Ömerli Tesisleri Otoparkı 1,parking,,,29.286714237058984,41.08918147220956,Bi Mola Ömerli Tesisleri Otoparkı 1,bi mola omerli tesisleri otopark 1,,,parking
+Bi Mola Ömerli Tesisleri Otoparkı 2,parking,,,29.28724453030444,41.09054125237285,Bi Mola Ömerli Tesisleri Otoparkı 2,bi mola omerli tesisleri otopark 2,,,parking
+Açık Otopark,parking,,,28.6675947718588,41.055403590755695,Açık Otopark,ac k otopark,,,parking
+Açık Otopark,parking,,,28.380141592559543,41.052148928476754,Açık Otopark,ac k otopark,,,parking
+Açık Otopark,parking,,,28.381811849136195,41.05168421453754,Açık Otopark,ac k otopark,,,parking
+Emsey Hospital Hasta Otoparkı,parking,,,29.28810182726777,40.92321907292255,Emsey Hospital Hasta Otoparkı,emsey hospital hasta otopark,,,parking
+Şeyhli Mahallesi Otoparkı,parking,,,29.286063773135712,40.91374160435342,Şeyhli Mahallesi Otoparkı,seyhli mahallesi otopark,,,parking
+Ersoy Hastanesi Arkası Otoparkı,parking,,,29.29857465458592,40.91048012263788,Ersoy Hastanesi Arkası Otoparkı,ersoy hastanesi arkas otopark,,,parking
+Harmandere Açık Otoparkı,parking,,,29.32532996303783,40.93027091708877,Harmandere Açık Otoparkı,harmandere ac k otopark,,,parking
+Yediemin Otoparkı,parking,,,29.30900217083608,40.94200636174419,Yediemin Otoparkı,yediemin otopark,,,parking
+Pendik Sahil Meydanı Katlı Otopark,parking,,,29.232617591048257,40.87496531698357,Pendik Sahil Meydanı Katlı Otopark,pendik sahil meydan katl otopark,,,parking
+Pentaş Metro Otoparkı,parking,,,29.24741761730325,40.88188724708756,Pentaş Metro Otoparkı,pentas metro otopark,,,parking
+Pentaş Pendik Merkez Sahil Otoparkı,parking,,,29.23623259948322,40.876229657664126,Pentaş Pendik Merkez Sahil Otoparkı,pentas pendik merkez sahil otopark,,,parking
+Pentaş Marmara Hastanesi Otoparkı,parking,,,29.26331378576917,40.88775028586993,Pentaş Marmara Hastanesi Otoparkı,pentas marmara hastanesi otopark,,,parking
+Mostar Katlı Otoparkı,parking,,,29.2383684036332,40.87952200181226,Mostar Katlı Otoparkı,mostar katl otopark,,,parking
+İspark Pendik Katlı Otoparkı,parking,,,29.23415550799588,40.87892281058993,İspark Pendik Katlı Otoparkı,ispark pendik katl otopark,,,parking
+İSPARK Bülent Ecevit Kültür Merkezi Otoparkı,parking,,,29.19712526267568,40.885190375338986,İSPARK Bülent Ecevit Kültür Merkezi Otoparkı,ispark bulent ecevit kultur merkezi otopark,,,parking
+İSPARK Kartal Sahil Açık Otoparkı,parking,,,29.19025681183357,40.887345936790005,İSPARK Kartal Sahil Açık Otoparkı,ispark kartal sahil ac k otopark,,,parking
+Can Otopark,parking,,,29.23127010345555,40.87728992031573,Can Otopark,can otopark,,,parking
+Pendik Sahil Açık Otoparkı,parking,,,29.23157818486349,40.87234689655807,Pendik Sahil Açık Otoparkı,pendik sahil ac k otopark,,,parking
+Yunus Emre Kültür Merkezi Otoparkı,parking,,,29.221171471037863,40.87961507252574,Yunus Emre Kültür Merkezi Otoparkı,yunus emre kultur merkezi otopark,,,parking
+İspark Pendik Sahil Engelliler Merkez Önü Otoparkı,parking,,,29.232968771245275,40.87338210589418,İspark Pendik Sahil Engelliler Merkez Önü Otoparkı,ispark pendik sahil engelliler merkez onu otopark,,,parking
+PenCR Müşteri Otoparkı,parking,,,29.22865180603371,40.87159092597238,PenCR Müşteri Otoparkı,pencr musteri otopark,,,parking
+İlçe Milli Eğitim Otoparkı,parking,,,29.272684793539923,40.86992442810875,İlçe Milli Eğitim Otoparkı,ilce milli egitim otopark,,,parking
+Gülistan Sofrası Müşteri Otoparkı,parking,,,29.232072129404383,40.87444976641342,Gülistan Sofrası Müşteri Otoparkı,gulistan sofras musteri otopark,,,parking
+Pendik Sahil İdo Açık Otoparkı,parking,,,29.236875489977447,40.87545308341552,Pendik Sahil İdo Açık Otoparkı,pendik sahil ido ac k otopark,,,parking
+İspark Pendik Marina 2 Otoparkı,parking,,,29.23358956263689,40.87324960486048,İspark Pendik Marina 2 Otoparkı,ispark pendik marina 2 otopark,,,parking
+İspark Kadıköy Metro 2 Açık Otoparkı,parking,,,29.02094854154588,40.98902261814237,İspark Kadıköy Metro 2 Açık Otoparkı,ispark kad koy metro 2 ac k otopark,,,parking
+Hal Otoparkı,parking,,,28.60313322940708,40.96704955857496,Hal Otoparkı,hal otopark,,,parking
+İspark Minibüs Depolama Alanı,parking,,,29.325365501598355,40.93221105316616,İspark Minibüs Depolama Alanı,ispark minibus depolama alan,,,parking
+İSPARK,parking,,,29.32088642332096,40.929400044796985,İSPARK,ispark,,,parking
+Kuşdili Otoparkı,parking,,,29.032641055298114,40.98977481630798,Kuşdili Otoparkı,kusdili otopark,,,parking
+İSPARK,parking,,,29.06989594520961,41.02633623966548,İSPARK,ispark,,,parking
+Paksu Merter Yeraltı Otoparkı,parking,,,28.88407826507752,41.01238135792455,Paksu Merter Yeraltı Otoparkı,paksu merter yeralt otopark,,,parking
+İspark Merter Katlı Otopark,parking,,,28.88988697695276,41.00980099062945,İspark Merter Katlı Otopark,ispark merter katl otopark,,,parking
+İspark Küçük Çamlıca,parking,,,29.066444985593453,41.02023541097294,İspark Küçük Çamlıca,ispark kucuk caml ca,,,parking
+Bayrampaşa Belediyesi Katlı Otoparkı,parking,,,28.91158207085309,41.03959729879858,Bayrampaşa Belediyesi Katlı Otoparkı,bayrampasa belediyesi katl otopark,,,parking
+İspark Ümraniye Dr.Adnan Büyükdeniz Caddesi Açık Otoparkı,parking,,,29.111367890417377,41.03226245754981,İspark Ümraniye Dr.Adnan Büyükdeniz Caddesi Açık Otoparkı,ispark umraniye dr adnan buyukdeniz caddesi ac k otopark,,,parking
+İSPARK,parking,,,29.10257341527092,41.03166142830949,İSPARK,ispark,,,parking
+Sancaktepe Devlet Hastanesi Otoparkı,parking,,,29.19432367881111,41.00572500391971,Sancaktepe Devlet Hastanesi Otoparkı,sancaktepe devlet hastanesi otopark,,,parking
+otopark,parking,,,28.93074827749404,41.00766994448188,otopark,otopark,,,parking
+Fuar Alanı Otoparkı,parking,,,28.7578121832574,41.10426454804983,Fuar Alanı Otoparkı,fuar alan otopark,,,parking
+İSPARK,parking,,,28.801092445384995,41.10675876251498,İSPARK,ispark,,,parking
+İSPARK,parking,,,28.692624249124588,41.06631786310814,İSPARK,ispark,,,parking
+İSPARK Beyoğlu Balıkçılar Önü,parking,,,28.97400952116755,41.02201098973329,İSPARK Beyoğlu Balıkçılar Önü,ispark beyoglu bal kc lar onu,,,parking
+İSPARK,parking,,,29.007912092910363,41.086998097392616,İSPARK,ispark,,,parking
+Belediye Yeraltı Otoparkı,parking,,,29.228044769030102,40.99428271259544,Belediye Yeraltı Otoparkı,belediye yeralt otopark,,,parking
+Sultanbeyli Katlı Otoparkı,parking,,,29.26636578461667,40.96602073224443,Sultanbeyli Katlı Otoparkı,sultanbeyli katl otopark,,,parking
+İSPARK,parking,,,28.94454028986938,41.08803617423243,İSPARK,ispark,,,parking
+Otopark Meydanı,parking,,,29.32165138801157,40.82752476162207,Otopark Meydanı,otopark meydan,,,parking
+İspark,parking,,,29.06576544049261,41.078766717055,İspark,ispark,,,parking
+İSPARK,parking,,,29.009221547273725,41.08521503570892,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.03781890289472,40.994765274089104,İSPARK,ispark,,,parking
+Güven Otoparkı,parking,,,28.91950233588989,41.05249421428161,Güven Otoparkı,guven otopark,,,parking
+İSPARK,parking,,,29.03964515559143,41.024627866598685,İSPARK,ispark,,,parking
+P1 Öğrenci/Misafir Otoparkı,parking,,,29.025818575204443,41.10167404295737,P1 Öğrenci/Misafir Otoparkı,p1 ogrenci misafir otopark,,,parking
+İSPARK Süleymaniye Camii Altı Açık Otoparkı,parking,,,28.96081745887509,41.01601036098514,İSPARK Süleymaniye Camii Altı Açık Otoparkı,ispark suleymaniye camii alt ac k otopark,,,parking
+Otopark Meydanı,parking,,,29.319398922222604,40.82730146633688,Otopark Meydanı,otopark meydan,,,parking
+Otopark Meydanı,parking,,,29.319471875437543,40.8264176793339,Otopark Meydanı,otopark meydan,,,parking
+İSPARK,parking,,,29.171214710688485,40.89877940423634,İSPARK,ispark,,,parking
+İspark,parking,,,29.190938938844663,40.89198219995717,İspark,ispark,,,parking
+ESBAŞ Rami Otoparkı,parking,,,28.91685633249492,41.05134324712869,ESBAŞ Rami Otoparkı,esbas rami otopark,,,parking
+İstanbul Havalimanı Cami Otoparkı,parking,,,28.745905548851205,41.25225132450465,İstanbul Havalimanı Cami Otoparkı,istanbul havaliman cami otopark,,,parking
+İstanbul Çocukları Vakfı Otoparkı,parking,,,29.02753298850117,41.07597494441582,İstanbul Çocukları Vakfı Otoparkı,istanbul cocuklar vakf otopark,,,parking
+Karadeniz Açık Otoparkı,parking,,,28.8770546853192,41.08191229404808,Karadeniz Açık Otoparkı,karadeniz ac k otopark,,,parking
+Tekin 2 Otopark,parking,,,28.9087043190166,41.05801628054772,Tekin 2 Otopark,tekin 2 otopark,,,parking
+Merkez Otopark,parking,,,28.90863464659733,41.05791926100312,Merkez Otopark,merkez otopark,,,parking
+Baba Nayim Otoparkı,parking,,,28.91248311997161,41.05868058231332,Baba Nayim Otoparkı,baba nayim otopark,,,parking
+Pierreloti Otopark,parking,,,28.93279116882275,41.05471694552142,Pierreloti Otopark,pierreloti otopark,,,parking
+İspark Tuzla İDO,parking,,,29.30378581937564,40.81486147268183,İspark Tuzla İDO,ispark tuzla ido,,,parking
+Koton Misafir ve Tedarikçi Otoparkı,parking,,,28.99813567139807,41.11205297628158,Koton Misafir ve Tedarikçi Otoparkı,koton misafir ve tedarikci otopark,,,parking
+Dereboyu Belediye Otoparkı,parking,,,28.99758510356747,41.11726114909534,Dereboyu Belediye Otoparkı,dereboyu belediye otopark,,,parking
+Migros otopark,parking,,,29.307334542937472,40.92811865841598,Migros otopark,migros otopark,,,parking
+Hotel Suadiye Otoparkı,parking,,,29.081185953019272,40.95667250936801,Hotel Suadiye Otoparkı,hotel suadiye otopark,,,parking
+Deniz Otopark,parking,,,28.668537265114114,41.02774773645428,Deniz Otopark,deniz otopark,,,parking
+Adapark Katlı Otoparkı,parking,,,28.88724090414767,41.064110369921565,Adapark Katlı Otoparkı,adapark katl otopark,,,parking
+İspark Acıbadem Açık Otoparkı,parking,,,29.057492701542067,41.01572775514471,İspark Acıbadem Açık Otoparkı,ispark ac badem ac k otopark,,,parking
+Bilfen Otopark,parking,,,29.055431854471472,41.01887884718269,Bilfen Otopark,bilfen otopark,,,parking
+Sorriso Restaurant Kuruçeşme Otoparkı,parking,,,29.03563768581978,41.0600581227834,Sorriso Restaurant Kuruçeşme Otoparkı,sorriso restaurant kurucesme otopark,,,parking
+İSPARK Muallim Naci Açık Otoparkı,parking,,,29.03422713333333,41.05576262801664,İSPARK Muallim Naci Açık Otoparkı,ispark muallim naci ac k otopark,,,parking
+Güven Otopark,parking,,,28.944488691002828,41.00846144702023,Güven Otopark,guven otopark,,,parking
+İSPARK Yenikapı Marmaray Küçük Otoparkı,parking,,,28.950427389974724,41.00659325161704,İSPARK Yenikapı Marmaray Küçük Otoparkı,ispark yenikap marmaray kucuk otopark,,,parking
+İSPARK Yenikapı Marmaray Büyük Otoparkı,parking,,,28.95058801919351,41.00568457794032,İSPARK Yenikapı Marmaray Büyük Otoparkı,ispark yenikap marmaray buyuk otopark,,,parking
+Tura Otopark,parking,,,28.95090927562501,41.006528773842255,Tura Otopark,tura otopark,,,parking
+İSPARK,parking,,,28.95086289395098,41.00638006787405,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.024079391634,41.11652731684672,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.0569874912418,41.085925325979794,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.05780989623206,41.10732846286255,İSPARK,ispark,,,parking
+İSPARK Arnavutköy Sosyal Tesisleri,parking,,,29.0450035586861,41.06761262519116,İSPARK Arnavutköy Sosyal Tesisleri,ispark arnavutkoy sosyal tesisleri,,,parking
+Mesil Otopark,parking,,,28.95575747526598,41.00558948670372,Mesil Otopark,mesil otopark,,,parking
+Dadaş Otopark,parking,,,28.956808547461858,41.01234741620016,Dadaş Otopark,dadas otopark,,,parking
+Vectra Otopark,parking,,,28.95520906754813,41.005840057671406,Vectra Otopark,vectra otopark,,,parking
+İSPARK Yenikapı Tünel Üstü Açık Otoparkı,parking,,,28.95361511823136,41.00285004539008,İSPARK Yenikapı Tünel Üstü Açık Otoparkı,ispark yenikap tunel ustu ac k otopark,,,parking
+Kadıköy Rıhtım Otel Otopark,parking,,,29.02523659444795,40.99538618462913,Kadıköy Rıhtım Otel Otopark,kad koy r ht m otel otopark,,,parking
+Özel Otopark,parking,,,29.32228902890914,40.82955213005308,Özel Otopark,ozel otopark,,,parking
+Tır Otoparkı,parking,,,29.3281912846602,40.82890543150501,Tır Otoparkı,t r otopark,,,parking
+İspark Bostancı Sahil - Cep Açık Otoparkı,parking,,,29.088281949968447,40.95462957861375,İspark Bostancı Sahil - Cep Açık Otoparkı,ispark bostanc sahil cep ac k otopark,,,parking
+İSPARK,parking,,,28.71417946597933,40.97212929701782,İSPARK,ispark,,,parking
+Güneşli Katlı Otoparkı,parking,,,28.82323615174578,41.03542792199417,Güneşli Katlı Otoparkı,gunesli katl otopark,,,parking
+İSPARK,parking,,,29.037929049020768,41.02009306207321,İSPARK,ispark,,,parking
+Otopark Meydanı,parking,,,29.319961179277414,40.828056117728245,Otopark Meydanı,otopark meydan,,,parking
+İSPARK,parking,,,29.11902140838992,40.9925226976559,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.27892629936024,40.83172392122466,İSPARK,ispark,,,parking
+Tır Otoparkı,parking,,,29.31993279903136,40.83272433205205,Tır Otoparkı,t r otopark,,,parking
+İSPARK,parking,,,28.821653226508253,40.95601620678606,İSPARK,ispark,,,parking
+İspark Yalı Açık Otoparkı,parking,,,29.13705310372216,40.90949883039982,İspark Yalı Açık Otoparkı,ispark yal ac k otopark,,,parking
+İSPARK Kartal Savarona Sahil Cep,parking,,,29.18199039958048,40.885936780636136,İSPARK Kartal Savarona Sahil Cep,ispark kartal savarona sahil cep,,,parking
+Türk Polisini Güçlendirme Vakfı Otoparkı,parking,,,29.08026870896368,40.95571040833843,Türk Polisini Güçlendirme Vakfı Otoparkı,turk polisini guclendirme vakf otopark,,,parking
+İSPARK  Küçükyalı Sahil Cep Otoparkı,parking,,,29.105609904790622,40.94451225333432,İSPARK  Küçükyalı Sahil Cep Otoparkı,ispark kucukyal sahil cep otopark,,,parking
+İspark Merdivenköy Açık Otoparkı,parking,,,29.060594128472665,40.98737054933731,İspark Merdivenköy Açık Otoparkı,ispark merdivenkoy ac k otopark,,,parking
+Haliç Metro Otopark,parking,,,28.969429678084406,41.02435017575042,Haliç Metro Otopark,halic metro otopark,,,parking
+İSPARK,parking,,,29.12243975888604,40.927539748825,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.124235569940907,40.92557359011792,İSPARK,ispark,,,parking
+İSPARK Dragos Sosyal Tesisleri,parking,,,29.1456484924146,40.9016263100459,İSPARK Dragos Sosyal Tesisleri,ispark dragos sosyal tesisleri,,,parking
+İSPARK,parking,,,29.22752510701041,40.894870876143,İSPARK,ispark,,,parking
+İSPARK,parking,,,28.98751230217374,41.11042632898044,İSPARK,ispark,,,parking
+İSPARK,parking,,,28.71997209941121,40.97021182672568,İSPARK,ispark,,,parking
+İSPARK TÜYAP Metrobüs Yanı Açık Otoparkı,parking,,,28.624707064689453,41.02169329775924,İSPARK TÜYAP Metrobüs Yanı Açık Otoparkı,ispark tuyap metrobus yan ac k otopark,,,parking
+İstanbul Havalimanı Açık Otoparkı,parking,,,28.741799989754984,41.25633526946879,İstanbul Havalimanı Açık Otoparkı,istanbul havaliman ac k otopark,,,parking
+Teknopark Otoparkı,parking,,,29.313150219366825,40.922831480309526,Teknopark Otoparkı,teknopark otopark,,,parking
+Otopark,parking,,,28.59942930596007,41.01070716973147,Otopark,otopark,,,parking
+Yeraltı Otopark,parking,,,28.577739538907714,41.02068053452937,Yeraltı Otopark,yeralt otopark,,,parking
+Askerlik Şubesi Otoparkı,parking,,,28.75654548781195,40.98230519363027,Askerlik Şubesi Otoparkı,askerlik subesi otopark,,,parking
+İSPARK,parking,,,28.65353435656249,40.96392505560165,İSPARK,ispark,,,parking
+Perpa Ticaret Merkezi Açık Otopark 1,parking,,,28.968088968152127,41.06100362069158,Perpa Ticaret Merkezi Açık Otopark 1,perpa ticaret merkezi ac k otopark 1,,,parking
+İSPARK,parking,,,29.192818516315484,40.91360031472092,İSPARK,ispark,,,parking
+İSPARK,parking,,,28.94513391904095,41.16877780113957,İSPARK,ispark,,,parking
+İSPARK,parking,,,28.85009702304257,40.99796786434037,İSPARK,ispark,,,parking
+Aksaray Otoparkı,parking,,,28.95069670868318,41.00422287792623,Aksaray Otoparkı,aksaray otopark,,,parking
+Kınalı Yediemin Otoparkı,parking,,,28.105705350031485,41.06696712721533,Kınalı Yediemin Otoparkı,k nal yediemin otopark,,,parking
+İSPARK Pendik Sahil Otopark Girişi,parking,,,29.232661030465525,40.87495279924873,İSPARK Pendik Sahil Otopark Girişi,ispark pendik sahil otopark girisi,,,parking
+İSPARK,parking,,,28.97806743526061,41.00417314590964,İSPARK,ispark,,,parking
+Nikah Sarayı Otoparkı,parking,,,28.79776027650874,41.11760557038927,Nikah Sarayı Otoparkı,nikah saray otopark,,,parking
+İSPARK,parking,,,28.97045102011305,41.0948541898261,İSPARK,ispark,,,parking
+{{categories:urban_roadnet_parking_lot}},parking,,,29.0757636517662,41.05220152897191,{{categories:urban_roadnet_parking_lot}},categories urban roadnet parking lot,,,parking
+Sistem Yedi Emin Otoparkı,parking,,,28.512058260926068,41.009737368145736,Sistem Yedi Emin Otoparkı,sistem yedi emin otopark,,,parking
+İSPARK,parking,,,29.30808484874925,40.92691351758561,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.307793066590587,40.92709692976916,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.307670638020177,40.9270654459111,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.307648009462792,40.92746692290481,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.307338105878458,40.92764030556118,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.307196541662613,40.92762357272422,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.30645457281238,40.928515031889646,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.306576178299164,40.92853330756443,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.306691530049047,40.92823598990779,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.30533283317571,40.929844554427135,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.305577542874328,40.92971657347221,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.305289219365324,40.93006862004636,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.30495400576305,40.9304541574577,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.30483892027961,40.9304368909778,İSPARK,ispark,,,parking
+P2 Öğrenci/Misafir Otoparkı,parking,,,29.01680195729076,41.10717034805411,P2 Öğrenci/Misafir Otoparkı,p2 ogrenci misafir otopark,,,parking
+Kartal İspark,parking,,,29.1827161,40.8870054,Kartal İspark,kartal ispark,,,parking
+Balmumcu Yeraltı Otoparkı,parking,,,29.0109659,41.0637566,Balmumcu Yeraltı Otoparkı,balmumcu yeralt otopark,,,parking
+Merkez Otoparkı,parking,,,29.1302785,40.9245732,Merkez Otoparkı,merkez otopark,,,parking
+Hacı Nimet Özden Camii Otoparkı,parking,,,29.0102765,41.0677581,Hacı Nimet Özden Camii Otoparkı,hac nimet ozden camii otopark,,,parking
+Lale Otopark,parking,,,28.8821442,41.0371123,Lale Otopark,lale otopark,,,parking
+İSPARK,parking,,,28.8458241,40.9910382,İSPARK,ispark,,,parking
+Merkez Otopark,parking,,,29.0565549,41.1674548,Merkez Otopark,merkez otopark,,,parking
+Pentaş Mehmet Akif Kapalı Otoparkı,parking,,,29.2321742,40.8787076,Pentaş Mehmet Akif Kapalı Otoparkı,pentas mehmet akif kapal otopark,,,parking
+İspark Haldun Alagaş Katlı Otoparkı,parking,,,29.1050208,41.0254954,İspark Haldun Alagaş Katlı Otoparkı,ispark haldun alagas katl otopark,,,parking
+İspark,parking,,,28.9752387,41.0231681,İspark,ispark,,,parking
+İSPARK,parking,,,28.9861604,41.0316786,İSPARK,ispark,,,parking
+Mercan Kapalı Otoparkı,parking,,,28.970432,41.013778,Mercan Kapalı Otoparkı,mercan kapal otopark,,,parking
+İstanbul Trafik Vakfı Otoparkı,parking,,,28.9310367,41.0472656,İstanbul Trafik Vakfı Otoparkı,istanbul trafik vakf otopark,,,parking
+İspark,parking,,,29.0654588,41.0799605,İspark,ispark,,,parking
+İspark,parking,,,29.0658302,41.0995504,İspark,ispark,,,parking
+Florya Sosyal Tesisleri Otoparkı,parking,,,28.8090539,40.9609936,Florya Sosyal Tesisleri Otoparkı,florya sosyal tesisleri otopark,,,parking
+Aktör Zeyn Vale,parking,,,29.1013963,41.0941439,Aktör Zeyn Vale,aktor zeyn vale,,,parking
+İspark,parking,,,29.0158259,41.0252,İspark,ispark,,,parking
+İspark,parking,,,29.0159248,41.0235816,İspark,ispark,,,parking
+İspark,parking,,,29.0156572,41.0234525,İspark,ispark,,,parking
+İspark,parking,,,29.0157186,41.0230553,İspark,ispark,,,parking
+İspark,parking,,,29.0161091,41.0226117,İspark,ispark,,,parking
+İspark,parking,,,29.0158371,41.0222675,İspark,ispark,,,parking
+İspark,parking,,,29.0169545,41.0214318,İspark,ispark,,,parking
+İspark,parking,,,29.0167637,41.0213594,İspark,ispark,,,parking
+İspark,parking,,,29.0158239,41.0213042,İspark,ispark,,,parking
+İspark,parking,,,29.0153369,41.020844,İspark,ispark,,,parking
+İspark,parking,,,29.0133318,41.0196093,İspark,ispark,,,parking
+İspark,parking,,,29.0144111,41.0201456,İspark,ispark,,,parking
+İspark,parking,,,29.0161928,41.0222197,İspark,ispark,,,parking
+İspark,parking,,,29.0250124,41.0157688,İspark,ispark,,,parking
+İspark Bağlarbaşı Katlı Otoparkı,parking,,,29.0309617,41.022454,İspark Bağlarbaşı Katlı Otoparkı,ispark baglarbas katl otopark,,,parking
+İspark Marmara İlahiyat Otoparkı,parking,,,29.0379443,41.0205325,İspark Marmara İlahiyat Otoparkı,ispark marmara ilahiyat otopark,,,parking
+İspark Altunizade Açık Otopark,parking,,,29.0406621,41.0251077,İspark Altunizade Açık Otopark,ispark altunizade ac k otopark,,,parking
+İspark,parking,,,29.023474,41.0324655,İspark,ispark,,,parking
+İspark,parking,,,29.0251537,41.0335779,İspark,ispark,,,parking
+İspark Kirazlıtepe Katlı Otoparkı,parking,,,29.0592435,41.0386715,İspark Kirazlıtepe Katlı Otoparkı,ispark kirazl tepe katl otopark,,,parking
+İspark,parking,,,29.0765422,41.0473677,İspark,ispark,,,parking
+İspark,parking,,,29.0765441,41.0482686,İspark,ispark,,,parking
+İspark,parking,,,29.0676354,41.1032768,İspark,ispark,,,parking
+İspark Hidiv Kasrı,parking,,,29.0752616,41.1034798,İspark Hidiv Kasrı,ispark hidiv kasr,,,parking
+İspark,parking,,,29.0917758,41.1346273,İspark,ispark,,,parking
+İspark,parking,,,29.0888177,41.1354776,İspark,ispark,,,parking
+İspark,parking,,,29.0929941,41.0945971,İspark,ispark,,,parking
+İspark,parking,,,29.0919878,41.0946368,İspark,ispark,,,parking
+İspark,parking,,,29.1726138,41.0304898,İspark,ispark,,,parking
+İspark,parking,,,29.1730299,41.0312582,İspark,ispark,,,parking
+İspark,parking,,,29.1731844,41.0321959,İspark,ispark,,,parking
+İspark,parking,,,29.1737964,41.0327133,İspark,ispark,,,parking
+İspark,parking,,,29.1746176,41.0327497,İspark,ispark,,,parking
+İspark,parking,,,29.2247774,41.0294063,İspark,ispark,,,parking
+İspark,parking,,,29.225018,41.0302465,İspark,ispark,,,parking
+İspark,parking,,,29.2263704,41.0312353,İspark,ispark,,,parking
+İspark,parking,,,29.2282192,41.0315048,İspark,ispark,,,parking
+İspark,parking,,,29.0592729,41.0139525,İspark,ispark,,,parking
+İspark,parking,,,29.0599971,41.0137229,İspark,ispark,,,parking
+İspark,parking,,,29.2083972,41.0118343,İspark,ispark,,,parking
+İspark,parking,,,29.2299592,40.9853171,İspark,ispark,,,parking
+İspark,parking,,,29.2301356,40.9848055,İspark,ispark,,,parking
+İspark,parking,,,29.2305077,40.9844204,İspark,ispark,,,parking
+İspark Ümraniye Katlı Otoparkı,parking,,,29.0955296,41.0261658,İspark Ümraniye Katlı Otoparkı,ispark umraniye katl otopark,,,parking
+İspark,parking,,,29.098219,41.0255289,İspark,ispark,,,parking
+İspark,parking,,,29.0990767,41.02533,İspark,ispark,,,parking
+İspark,parking,,,29.0998183,41.0251312,İspark,ispark,,,parking
+İspark,parking,,,29.101087,41.025876,İspark,ispark,,,parking
+İspark Canpark AVM Katlı Otopark,parking,,,29.1052778,41.0252901,İspark Canpark AVM Katlı Otopark,ispark canpark avm katl otopark,,,parking
+İspark,parking,,,29.0930638,41.0236298,İspark,ispark,,,parking
+İspark,parking,,,29.0940168,41.0235003,İspark,ispark,,,parking
+İspark,parking,,,29.0946028,41.0233976,İspark,ispark,,,parking
+İspark,parking,,,29.08416,41.0240703,İspark,ispark,,,parking
+İspark Tuzla İDO,parking,,,29.3037816,40.814935,İspark Tuzla İDO,ispark tuzla ido,,,parking
+İspark Gözdağı Sosyal Tesisler Açık Otoparkı,parking,,,29.254068,40.890507,İspark Gözdağı Sosyal Tesisler Açık Otoparkı,ispark gozdag sosyal tesisler ac k otopark,,,parking
+İspark Metro Açık Otoparkı,parking,,,29.2288502,40.89501,İspark Metro Açık Otoparkı,ispark metro ac k otopark,,,parking
+İspark,parking,,,29.2609284,40.8868142,İspark,ispark,,,parking
+İspark,parking,,,29.2617593,40.8874355,İspark,ispark,,,parking
+İspark,parking,,,29.2623181,40.8878106,İspark,ispark,,,parking
+İspark Soğanlık Metro Açık Otoparkı,parking,,,29.1928951,40.9131677,İspark Soğanlık Metro Açık Otoparkı,ispark soganl k metro ac k otopark,,,parking
+İspark,parking,,,29.1943356,40.9123073,İspark,ispark,,,parking
+İspark Yakacık Zemin Altı Otoparkı,parking,,,29.2250231,40.9186514,İspark Yakacık Zemin Altı Otoparkı,ispark yakac k zemin alt otopark,,,parking
+İspark,parking,,,29.1044958,40.9669739,İspark,ispark,,,parking
+İspark,parking,,,29.1047268,40.9674208,İspark,ispark,,,parking
+İspark,parking,,,29.104761,40.9664786,İspark,ispark,,,parking
+İspark,parking,,,29.1054129,40.9665598,İspark,ispark,,,parking
+İspark,parking,,,29.105789,40.9671293,İspark,ispark,,,parking
+İspark,parking,,,29.1062149,40.9676451,İspark,ispark,,,parking
+İspark,parking,,,29.1029531,40.9691369,İspark,ispark,,,parking
+İspark Fsm Eğitim ve Araştırma Hastanesi,parking,,,29.1035906,40.9708692,İspark Fsm Eğitim ve Araştırma Hastanesi,ispark fsm egitim ve arast rma hastanesi,,,parking
+İspark Fsm Hastanesi Yanı E5 Yan Yol,parking,,,29.1021974,40.9703422,İspark Fsm Hastanesi Yanı E5 Yan Yol,ispark fsm hastanesi yan e5 yan yol,,,parking
+İspark,parking,,,29.1026972,40.9802858,İspark,ispark,,,parking
+İspark,parking,,,29.1022519,40.9804441,İspark,ispark,,,parking
+İspark Mimar Sinan Camii Otoparkı,parking,,,29.1120769,40.996319,İspark Mimar Sinan Camii Otoparkı,ispark mimar sinan camii otopark,,,parking
+İspark Üsküdar Ünalan Açık Otoparkı,parking,,,29.0606142,40.9979227,İspark Üsküdar Ünalan Açık Otoparkı,ispark uskudar unalan ac k otopark,,,parking
+İspark,parking,,,29.0617928,40.9981928,İspark,ispark,,,parking
+İspark,parking,,,29.0626135,40.999059,İspark,ispark,,,parking
+İspark,parking,,,29.230646,40.8772627,İspark,ispark,,,parking
+İspark,parking,,,29.2311738,40.8775262,İspark,ispark,,,parking
+İspark,parking,,,29.2344638,40.87877,İspark,ispark,,,parking
+İspark,parking,,,29.2339183,40.8801315,İspark,ispark,,,parking
+İspark,parking,,,29.2358252,40.8802121,İspark,ispark,,,parking
+İspark,parking,,,29.2351729,40.879902,İspark,ispark,,,parking
+İspark,parking,,,29.2352993,40.8794137,İspark,ispark,,,parking
+İspark,parking,,,29.2355485,40.8788909,İspark,ispark,,,parking
+İspark,parking,,,29.2358222,40.8782028,İspark,ispark,,,parking
+İspark,parking,,,29.2362563,40.8780085,İspark,ispark,,,parking
+İspark,parking,,,29.2355776,40.8777334,İspark,ispark,,,parking
+İspark,parking,,,29.2358843,40.877138,İspark,ispark,,,parking
+İspark,parking,,,29.2367617,40.8773052,İspark,ispark,,,parking
+İspark,parking,,,29.2349344,40.8774701,İspark,ispark,,,parking
+İspark,parking,,,29.2331851,40.8767589,İspark,ispark,,,parking
+İspark,parking,,,29.231775,40.876257,İspark,ispark,,,parking
+İspark,parking,,,29.232218,40.8758638,İspark,ispark,,,parking
+Hilal Otopark Ve Oto Yıkama,parking,,,28.9287929,41.0074877,Hilal Otopark Ve Oto Yıkama,hilal otopark ve oto y kama,,,parking
+İspark Kartal Köprüsü Kavşağı,parking,,,29.2065418,40.9075124,İspark Kartal Köprüsü Kavşağı,ispark kartal koprusu kavsag,,,parking
+İspark,parking,,,29.1917128,40.8916903,İspark,ispark,,,parking
+İspark,parking,,,29.1927952,40.892271,İspark,ispark,,,parking
+İspark,parking,,,29.1906004,40.8905571,İspark,ispark,,,parking
+İspark Hasan Doğan Spor Kompleksi,parking,,,29.1900837,40.8924488,İspark Hasan Doğan Spor Kompleksi,ispark hasan dogan spor kompleksi,,,parking
+İspark,parking,,,29.1864574,40.8890607,İspark,ispark,,,parking
+İspark,parking,,,29.1874338,40.8892553,İspark,ispark,,,parking
+İspark,parking,,,29.1887373,40.889527,İspark,ispark,,,parking
+İspark,parking,,,29.1897726,40.889231,İspark,ispark,,,parking
+İspark,parking,,,29.1836145,40.8892208,İspark,ispark,,,parking
+İspark,parking,,,29.1890145,40.8871952,İspark,ispark,,,parking
+İspark,parking,,,29.1877217,40.8872763,İspark,ispark,,,parking
+İspark,parking,,,29.1131119,40.938372,İspark,ispark,,,parking
+İspark Gülsuyu Metro Yer Altı Otoparkı,parking,,,29.1555034,40.9235112,İspark Gülsuyu Metro Yer Altı Otoparkı,ispark gulsuyu metro yer alt otopark,,,parking
+İspark,parking,,,29.0736047,40.9600083,İspark,ispark,,,parking
+İspark,parking,,,29.0756551,40.9620383,İspark,ispark,,,parking
+İspark,parking,,,29.0767604,40.9628638,İspark,ispark,,,parking
+İspark,parking,,,29.0773426,40.9634255,İspark,ispark,,,parking
+Sofular otoparkı,parking,,,28.947821,41.0133985,Sofular otoparkı,sofular otopark,,,parking
+Otopark ve Yıkama,parking,,,28.9551188,41.0233221,Otopark ve Yıkama,otopark ve y kama,,,parking
+Şehzadebaşı caddesi otoparkı,parking,,,28.9537373,41.0141364,Şehzadebaşı caddesi otoparkı,sehzadebas caddesi otopark,,,parking
+Eymen otopark,parking,,,28.9580785,41.0196679,Eymen otopark,eymen otopark,,,parking
+Sadrazam Ali Paşa Caddesi Otoparkı,parking,,,28.9531539,41.0286167,Sadrazam Ali Paşa Caddesi Otoparkı,sadrazam ali pasa caddesi otopark,,,parking
+Kalaycı Bedri Sk. Otopark,parking,,,28.9246979,40.9947597,Kalaycı Bedri Sk. Otopark,kalayc bedri sk otopark,,,parking
+Yıldırım otopark,parking,,,28.9235803,40.9980224,Yıldırım otopark,y ld r m otopark,,,parking
+Uğur Otopark,parking,,,28.9290564,40.9966393,Uğur Otopark,ugur otopark,,,parking
+Liman Otopark,parking,,,28.9303883,40.9983622,Liman Otopark,liman otopark,,,parking
+Tepedar Otoparkı,parking,,,28.9345653,41.0029101,Tepedar Otoparkı,tepedar otopark,,,parking
+Ercan Otopark,parking,,,28.9476838,41.0083903,Ercan Otopark,ercan otopark,,,parking
+Bursa otopark,parking,,,28.9450497,41.0073347,Bursa otopark,bursa otopark,,,parking
+Küçükbaşı Çeşme Otopark,parking,,,28.9437306,41.0058177,Küçükbaşı Çeşme Otopark,kucukbas cesme otopark,,,parking
+Ayyıldız Otoparkı,parking,,,28.9461895,41.0061126,Ayyıldız Otoparkı,ayy ld z otopark,,,parking
+Tatlıpınar Cd. Otopark,parking,,,28.9322959,41.0199854,Tatlıpınar Cd. Otopark,tatl p nar cd otopark,,,parking
+Bican Bağcıoğlu Cd. Otopark,parking,,,28.9316398,41.0206616,Bican Bağcıoğlu Cd. Otopark,bican bagc oglu cd otopark,,,parking
+Muhallebici Hasan Sk. Otoparkı,parking,,,28.9259113,41.0206481,Muhallebici Hasan Sk. Otoparkı,muhallebici hasan sk otopark,,,parking
+Topkapı Cd. Otoparkı,parking,,,28.9285835,41.019394,Topkapı Cd. Otoparkı,topkap cd otopark,,,parking
+Çapa Yolüstü Otopark,parking,,,28.9309557,41.0167572,Çapa Yolüstü Otopark,capa yolustu otopark,,,parking
+Öz Fatih Otopark,parking,,,28.9522801,41.0175102,Öz Fatih Otopark,oz fatih otopark,,,parking
+Ens Otopark,parking,,,28.9522097,41.0174021,Ens Otopark,ens otopark,,,parking
+Otopark,parking,,,28.9351344,41.0122562,Otopark,otopark,,,parking
+Aydınlar Açık Otoparkı,parking,,,28.9266326,41.0069108,Aydınlar Açık Otoparkı,ayd nlar ac k otopark,,,parking
+As Otopark Yıkama,parking,,,28.9478612,41.0077962,As Otopark Yıkama,as otopark y kama,,,parking
+APA OTOPARK,parking,,,28.9764749,41.0140528,APA OTOPARK,apa otopark,,,parking
+Günaydın Otopark,parking,,,28.9769163,41.0101127,Günaydın Otopark,gunayd n otopark,,,parking
+imç otopark,parking,,,28.957901,41.0171944,imç otopark,imc otopark,,,parking
+Vefa Otopark,parking,,,28.9579954,41.0150492,Vefa Otopark,vefa otopark,,,parking
+Osman otopark,parking,,,28.9651992,41.0173074,Osman otopark,osman otopark,,,parking
+Özdemir otopark,parking,,,28.9666772,41.0170649,Özdemir otopark,ozdemir otopark,,,parking
+Otopark,parking,,,28.9594027,41.017683,Otopark,otopark,,,parking
+otopark,parking,,,28.9607243,41.0195269,otopark,otopark,,,parking
+Fatih belediyesi otopark,parking,,,28.9598367,41.0192024,Fatih belediyesi otopark,fatih belediyesi otopark,,,parking
+Bozkır otopark,parking,,,28.9608419,41.0198348,Bozkır otopark,bozk r otopark,,,parking
+Çoşkun otopark,parking,,,28.9274245,41.0016731,Çoşkun otopark,coskun otopark,,,parking
+Çakırağa Otopark,parking,,,28.9396408,41.0327564,Çakırağa Otopark,cak raga otopark,,,parking
+Tuğra Otopark Yıkama,parking,,,28.9417952,41.0340186,Tuğra Otopark Yıkama,tugra otopark y kama,,,parking
+Çevre Otopark,parking,,,28.9323671,41.006138,Çevre Otopark,cevre otopark,,,parking
+Cem Otopark,parking,,,28.9321426,41.004356,Cem Otopark,cem otopark,,,parking
+Örümceksiz Otopark,parking,,,28.9263277,41.0141187,Örümceksiz Otopark,orumceksiz otopark,,,parking
+Tunç Otopark,parking,,,28.9270472,41.0152538,Tunç Otopark,tunc otopark,,,parking
+Umut Otopark,parking,,,28.9266369,41.0164221,Umut Otopark,umut otopark,,,parking
+Masko Yedieminli Otopark,parking,,,28.9246219,41.009904,Masko Yedieminli Otopark,masko yedieminli otopark,,,parking
+Asmalı Aktar Sk.otopark,parking,,,28.9249163,41.0124249,Asmalı Aktar Sk.otopark,asmal aktar sk otopark,,,parking
+El Emek Otoparkı,parking,,,28.9256092,41.0136027,El Emek Otoparkı,el emek otopark,,,parking
+Otopark,parking,,,28.9462516,41.0223611,Otopark,otopark,,,parking
+Otopark,parking,,,28.9475118,41.0203863,Otopark,otopark,,,parking
+Şirin otopark,parking,,,28.967174,41.0162206,Şirin otopark,sirin otopark,,,parking
+Fatih belediyesi otopark,parking,,,28.9617627,41.0158426,Fatih belediyesi otopark,fatih belediyesi otopark,,,parking
+otopark,parking,,,28.9427975,41.0105219,otopark,otopark,,,parking
+Serdar Otopark,parking,,,28.9448361,41.0080803,Serdar Otopark,serdar otopark,,,parking
+Findikzade kat otopark,parking,,,28.9407952,41.0109004,Findikzade kat otopark,findikzade kat otopark,,,parking
+Otopark,parking,,,28.943876,41.0090602,Otopark,otopark,,,parking
+Otopark,parking,,,28.9456671,41.0083908,Otopark,otopark,,,parking
+Otopark,parking,,,28.9436279,41.0293359,Otopark,otopark,,,parking
+Öztürk Katlı Otopark,parking,,,28.9291881,41.0112031,Öztürk Katlı Otopark,ozturk katl otopark,,,parking
+Çevre Katlı Otopark,parking,,,28.9341213,41.0074219,Çevre Katlı Otopark,cevre katl otopark,,,parking
+Emrullah Efendi Otoparkı,parking,,,28.9323304,41.0089901,Emrullah Efendi Otoparkı,emrullah efendi otopark,,,parking
+Otopark,parking,,,28.9371183,41.0100726,Otopark,otopark,,,parking
+Türkçü Sokak Açık Otopark,parking,,,28.9365844,41.0103648,Türkçü Sokak Açık Otopark,turkcu sokak ac k otopark,,,parking
+Otopark İspark,parking,,,28.9640599,41.0100459,Otopark İspark,otopark ispark,,,parking
+Otopark,parking,,,28.948288,41.0181901,Otopark,otopark,,,parking
+Sultanahmet Otopark,parking,,,28.9744709,41.0040333,Sultanahmet Otopark,sultanahmet otopark,,,parking
+Açık Otopark,parking,,,28.9730003,41.0035405,Açık Otopark,ac k otopark,,,parking
+Küflü Otopark,parking,,,28.9732894,41.0099737,Küflü Otopark,kuflu otopark,,,parking
+can katlı otopark,parking,,,29.23539,40.8859956,can katlı otopark,can katl otopark,,,parking
+Merkez oto yıkama otopark,parking,,,29.2661142,40.9686311,Merkez oto yıkama otopark,merkez oto y kama otopark,,,parking
+Şehit Volkan Duysak Katlı Otoparkı,parking,,,28.9044042,40.9973945,Şehit Volkan Duysak Katlı Otoparkı,sehit volkan duysak katl otopark,,,parking
+Otopark,parking,,,28.9190488,41.0022514,Otopark,otopark,,,parking
+Meydan Otopark ve Yıkama,parking,,,28.9103709,40.9960962,Meydan Otopark ve Yıkama,meydan otopark ve y kama,,,parking
+Kapalı Otopark ve Oto Yıkama,parking,,,28.9040852,40.9956807,Kapalı Otopark ve Oto Yıkama,kapal otopark ve oto y kama,,,parking
+LEVENT OTOPARK,parking,,,28.908536,40.9908597,LEVENT OTOPARK,levent otopark,,,parking
+Nur Otopark,parking,,,28.911324,41.0706228,Nur Otopark,nur otopark,,,parking
+Akgün otopark,parking,,,28.9300996,41.0230499,Akgün otopark,akgun otopark,,,parking
+Parking IsPark,parking,,,28.9423056,41.0000999,Parking IsPark,parking ispark,,,parking
+İSPARK Bayrampaşa Muratpaşa Yeraltı Otoparkı,parking,,,28.9082471,41.0467204,İSPARK Bayrampaşa Muratpaşa Yeraltı Otoparkı,ispark bayrampasa muratpasa yeralt otopark,,,parking
+Çamlıca Camii Zemin Altı Otoparkı,parking,,,29.0706086,41.035538,Çamlıca Camii Zemin Altı Otoparkı,caml ca camii zemin alt otopark,,,parking
+İSPARK,parking,,,28.9062918,41.0379433,İSPARK,ispark,,,parking
+İSPARK,parking,,,28.913122,41.043447,İSPARK,ispark,,,parking
+Denizde Güvenlik Eğitimi Uygulama Alanı ve Otoparkı,parking,,,29.0982717,41.1252493,Denizde Güvenlik Eğitimi Uygulama Alanı ve Otoparkı,denizde guvenlik egitimi uygulama alan ve otopark,,,parking
+İSPARK,parking,,,29.0599139,40.9654234,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1162363,40.9923609,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1207895,40.992636,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1222729,40.9927998,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1237951,40.9928385,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1244646,40.9928936,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1261927,40.9926873,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1268118,40.9918362,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1270799,40.9917834,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1161976,40.9926299,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1180954,40.9926493,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1198694,40.992811,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1207016,40.9928684,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1222447,40.9930139,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1237843,40.9931022,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1244585,40.9931022,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.126248,40.9929758,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1274785,40.9934407,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1276761,40.9933948,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1278645,40.9943142,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.128063,40.9942798,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1283124,40.9953204,İSPARK,ispark,,,parking
+İSPARK,parking,,,29.1284787,40.9952718,İSPARK,ispark,,,parking
+İSPARK,parking,,,28.8729968,41.0083051,İSPARK,ispark,,,parking
+Şubat Yediemin Otoparkı,parking,,,29.1069869,41.0130756,Şubat Yediemin Otoparkı,subat yediemin otopark,,,parking
+Garip Dede Türbesi Otoparkı,parking,,,28.767761,40.9867841,Garip Dede Türbesi Otoparkı,garip dede turbesi otopark,,,parking
+Pashacity Otopark,parking,,,28.9062782,41.058612,Pashacity Otopark,pashacity otopark,,,parking
+İSPARK,parking,,,28.8951243,41.0068628,İSPARK,ispark,,,parking
+Türkpark Otopark,parking,,,28.9832398,41.0416055,Türkpark Otopark,turkpark otopark,,,parking
+Otopark,parking,,,28.2439314,41.0741328,Otopark,otopark,,,parking
+İSPARK Millet Caddesi,parking,,,28.9460684,41.0099817,İSPARK Millet Caddesi,ispark millet caddesi,,,parking
+Kadıköy Rıhtım Otel Otopark,parking,,,29.0253543,40.9954106,Kadıköy Rıhtım Otel Otopark,kad koy r ht m otel otopark,,,parking
+İspark Mimar Sinan Zemin Altı Otoparkı,parking,,,29.0168038,41.0222136,İspark Mimar Sinan Zemin Altı Otoparkı,ispark mimar sinan zemin alt otopark,,,parking
+Sarayburnu Otopark,parking,,,28.9840613,41.0168612,Sarayburnu Otopark,sarayburnu otopark,,,parking
+Aqua Florya Kapalı Otoparkı,parking,,,28.7969008,40.9664947,Aqua Florya Kapalı Otoparkı,aqua florya kapal otopark,,,parking
+İSPARK,parking,,,28.9071471,41.0519548,İSPARK,ispark,,,parking
+İSPARK Büyükçekmece Metrobüs Yanı Zemin Altı Otoparkı,parking,,,28.6241785,41.0218093,İSPARK Büyükçekmece Metrobüs Yanı Zemin Altı Otoparkı,ispark buyukcekmece metrobus yan zemin alt otopark,,,parking
+İSPARK Gaziosmanpaşa Zemin Altı Otoparkı,parking,,,28.8853842,41.0792307,İSPARK Gaziosmanpaşa Zemin Altı Otoparkı,ispark gaziosmanpasa zemin alt otopark,,,parking
+İSPARK,parking,,,28.910893,41.0443489,İSPARK,ispark,,,parking
+Şirinevler Meydan Zeminaltı Otoparkı,parking,,,28.8489706,40.992314,Şirinevler Meydan Zeminaltı Otoparkı,sirinevler meydan zeminalt otopark,,,parking
+Lala Şahin Otoparkı,parking,,,28.9807826,41.0568615,Lala Şahin Otoparkı,lala sahin otopark,,,parking
+Şen Otopark & Yıkama,parking,,,29.01822,41.0208802,Şen Otopark & Yıkama,sen otopark y kama,,,parking
+Topağacı Otoparkı,parking,,,28.9978069,41.0519483,Topağacı Otoparkı,topagac otopark,,,parking
+Küçük Otopark (8-10 araba),parking,,,29.2390527,41.0657772,Küçük Otopark (8-10 araba),kucuk otopark 8 10 araba,,,parking
+İSPARK,parking,,,28.9067135,41.0510913,İSPARK,ispark,,,parking
+Acil Otoparkı,parking,,,29.1750928,40.913977,Acil Otoparkı,acil otopark,,,parking
+Otopark Girişi,parking,,,28.8749838,41.0591049,Otopark Girişi,otopark girisi,,,parking
+Libadiye Otopark,parking,,,29.076788,41.0147057,Libadiye Otopark,libadiye otopark,,,parking
+İspark Arnavutköy Zemin Altı Otoparkı,parking,,,28.7391237,41.1832918,İspark Arnavutköy Zemin Altı Otoparkı,ispark arnavutkoy zemin alt otopark,,,parking
+Kemal Kalkuz Parkı Zemin Altı Otoparkı,parking,,,29.2427568,40.8884385,Kemal Kalkuz Parkı Zemin Altı Otoparkı,kemal kalkuz park zemin alt otopark,,,parking
+İSPARK,parking,,,28.719988,40.9703348,İSPARK,ispark,,,parking
+Bayrampaşa Şehit Kamil Balkan Zemin Altı Otoparkı,parking,,,28.9008387,41.0605301,Bayrampaşa Şehit Kamil Balkan Zemin Altı Otoparkı,bayrampasa sehit kamil balkan zemin alt otopark,,,parking
+Gaziosmanpaşa Meydanı ve Yaşam Merkezi Zemin Altı Otoparkı,parking,,,28.9085532,41.060963,Gaziosmanpaşa Meydanı ve Yaşam Merkezi Zemin Altı Otoparkı,gaziosmanpasa meydan ve yasam merkezi zemin alt otopark,,,parking
+Adapark Katlı Otoparkı,parking,,,28.8871553,41.0640802,Adapark Katlı Otoparkı,adapark katl otopark,,,parking
+Hürriyet Mahallesi Zeminaltı Otoparkı,parking,,,28.894858,41.0710304,Hürriyet Mahallesi Zeminaltı Otoparkı,hurriyet mahallesi zeminalt otopark,,,parking
+Gaziosmanpaşa Zemin Altı Otoparkı,parking,,,28.8856425,41.0795703,Gaziosmanpaşa Zemin Altı Otoparkı,gaziosmanpasa zemin alt otopark,,,parking
+Bahçelievler Zafer Mh. Zeminaltı Otoparkı,parking,,,28.8349613,41.0036141,Bahçelievler Zafer Mh. Zeminaltı Otoparkı,bahcelievler zafer mh zeminalt otopark,,,parking
+Fevzi Çakmak Meydanı Zemin Altı Otoparkı,parking,,,28.7929423,41.0082868,Fevzi Çakmak Meydanı Zemin Altı Otoparkı,fevzi cakmak meydan zemin alt otopark,,,parking
+Cennet Mahallesi Meydan Zemin Altı Otoparkı,parking,,,28.7834287,40.9905973,Cennet Mahallesi Meydan Zemin Altı Otoparkı,cennet mahallesi meydan zemin alt otopark,,,parking
+Denizköşkler Toplantı ve Davet Salonu Açık Otoparkı,parking,,,28.7433701,40.9745642,Denizköşkler Toplantı ve Davet Salonu Açık Otoparkı,denizkoskler toplant ve davet salonu ac k otopark,,,parking
+Siyavuşpaşa Yer Altı Otoparkı,parking,,,28.8535257,40.9959557,Siyavuşpaşa Yer Altı Otoparkı,siyavuspasa yer alt otopark,,,parking
+Merter Metro Zeminaltı Otoparkı,parking,,,28.8897367,41.0036103,Merter Metro Zeminaltı Otoparkı,merter metro zeminalt otopark,,,parking
+Telve Otopark,parking,,,28.9788343,41.003972,Telve Otopark,telve otopark,,,parking
+Purple Car Park,parking,,,28.7441098,41.2580133,Purple Car Park,purple car park,,,parking
+Turquoise Car Park,parking,,,28.7456332,41.2580319,Turquoise Car Park,turquoise car park,,,parking
+Red Car Park,parking,,,28.7411156,41.2580126,Red Car Park,red car park,,,parking
+Blue Car Park,parking,,,28.739589,41.2580004,Blue Car Park,blue car park,,,parking
+Yellow Car Park,parking,,,28.7426966,41.2579563,Yellow Car Park,yellow car park,,,parking

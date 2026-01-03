@@ -1,0 +1,223 @@
+name,amenity,longitude,latitude,health_type,name_norm
+Validebağ Devlet Hastanesi,hospital,29.040877743033622,41.01220159451507,hospital,validebag devlet hastanesi
+Hadımköy Dr. İsmail Niyazi Kurtulmuş Hastanesi,hospital,28.619494818334093,41.15522190080645,hospital,hadımkoy dr. ismail niyazi kurtulmus hastanesi
+Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi,hospital,28.99004167351327,41.03759135002724,hospital,sisli hamidiye etfal egitim ve arastırma hastanesi
+Çapa Tıp Fakültesi Hastanesi,hospital,28.933917245131177,41.0167251797893,hospital,capa tıp fakultesi hastanesi
+Özel Çapa Hastanesi,hospital,28.93417578138925,41.01332207969112,hospital,ozel capa hastanesi
+İstanbul Bezmialem Vakıf Üniversitesi Valide Sultan Gureba Hastanesi,hospital,28.93580515091885,41.01839939066624,hospital,istanbul bezmialem vakıf universitesi valide sultan gureba hastanesi
+Medilife Çapa Hastanesi,hospital,28.933459124094696,41.014829905788666,hospital,medilife capa hastanesi
+İstanbul Esnaf Hastanesi,hospital,28.96223086542626,41.01396577598571,hospital,istanbul esnaf hastanesi
+İstanbul Eğitim ve Araştırma Hastanesi,hospital,28.93804535325536,41.003258344679786,hospital,istanbul egitim ve arastırma hastanesi
+SBÜ Sultan Abdülhamid Han Eğitim ve Araştırma Hastanesi,hospital,29.02097826754317,41.00119562010951,hospital,sbu sultan abdulhamid han egitim ve arastırma hastanesi
+Şişli Etfal Eğitim ve Araştırma Hastanesi,hospital,28.99069323195136,41.05785907463875,hospital,sisli etfal egitim ve arastırma hastanesi
+Haydarpaşa Numune Eğitim ve Araştırma Hastanesi,hospital,29.022857739959964,41.00491606239202,hospital,haydarpasa numune egitim ve arastırma hastanesi
+Dr. Lütfi Kırdar Kartal Eğitim ve Araştırma Hastanesi,hospital,29.173552201738698,40.91547682798914,hospital,dr. lutfi kırdar kartal egitim ve arastırma hastanesi
+Okmeydanı Profesör Doktor Cemil Taşçıoğlu Şehir Hastanesi,hospital,28.9749745150814,41.06472920962048,hospital,okmeydanı profesor doktor cemil tascıoglu sehir hastanesi
+Göztepe Prof. Dr. Süleyman Yalçın Şehir Hastanesi,hospital,29.05685453081105,40.98633813904807,hospital,goztepe prof. dr. suleyman yalcın sehir hastanesi
+Maltepe Üniversitesi Hastanesi,hospital,29.13514796059067,40.92552174921144,hospital,maltepe universitesi hastanesi
+Fransız Lape Hastanesi,hospital,28.99057951189673,41.06189962731797,hospital,fransız lape hastanesi
+Fatih Sultan Mehmet Eğitim ve Araştırma Hastanesi,hospital,29.1048682948531,40.97098839206228,hospital,fatih sultan mehmet egitim ve arastırma hastanesi
+Yeditepe Üniversitesi Kozyatağı Hastanesi,hospital,29.10352226502524,40.968887090273626,hospital,yeditepe universitesi kozyatagı hastanesi
+Avicenna Hastanesi,hospital,29.108622000000004,40.9793026,hospital,avicenna hastanesi
+Erenköy Ruh ve Sinir Hastalıkları Eğitim ve Araştırma Hastanesi,hospital,29.088618031024115,40.974977576749474,hospital,erenkoy ruh ve sinir hastalıkları egitim ve arastırma hastanesi
+Emsey Hastanesi,hospital,29.28886181501014,40.92368575441379,hospital,emsey hastanesi
+Haydarpaşa Numune Hastanesi Yeldeğirmeni Semt Polikliniği,hospital,29.02900909568512,40.99307082441632,hospital,haydarpasa numune hastanesi yeldegirmeni semt poliklinigi
+Fatih Medical Park Hastanesi,hospital,28.952268517141377,41.01479902151175,hospital,fatih medical park hastanesi
+Esenyurt Necmi Kadıoğlu Devlet Hastanesi,hospital,28.66838314753684,41.02863804255712,hospital,esenyurt necmi kadıoglu devlet hastanesi
+Özel Gazi Hastanesi,hospital,28.8985903013395,41.10101485850736,hospital,ozel gazi hastanesi
+Florence Nightingale Hastanesi,hospital,29.04171228813457,40.98162725360874,hospital,florence nightingale hastanesi
+Esenyurt Devlet Hastanesi (Ek Binası),hospital,28.68302207801807,41.03250012707037,hospital,esenyurt devlet hastanesi (ek binası)
+Erenköy Fizik Tedavi ve Rehabilitasyon Hastanesi,hospital,29.083683009678573,40.97484035260566,hospital,erenkoy fizik tedavi ve rehabilitasyon hastanesi
+Dr. Siyami Ersek Göğüs Kalp ve Damar Cerrahisi Eğitim ve Araştırma Hastanesi,hospital,29.024350610150105,41.003949764204506,hospital,dr. siyami ersek gogus kalp ve damar cerrahisi egitim ve arastırma hastanesi
+Erenköy Fizik Tedavi ve Reahabilitasyon Hastanesi,hospital,29.06562753920075,40.98597989489424,hospital,erenkoy fizik tedavi ve reahabilitasyon hastanesi
+Acıbadem Kadıköy Hastanesi,hospital,29.043081459391228,41.00713678758861,hospital,acıbadem kadıkoy hastanesi
+İtalyan Hastanesi - Giovanni Alberto Agnelli,hospital,28.98116711986051,41.02847363234936,hospital,italyan hastanesi - giovanni alberto agnelli
+Beylikdüzü Devlet Hastanesi,hospital,28.624541809920323,41.01468068286692,hospital,beylikduzu devlet hastanesi
+Maltepe Üniversitesi Kadın Doğum ve Çocuk Hastanesi,hospital,29.13331678123535,40.92603382871951,hospital,maltepe universitesi kadın dogum ve cocuk hastanesi
+Pendik Devlet Hastanesi Kurtköy Semt Polikliniği,hospital,29.307877735129324,40.92537140023898,hospital,pendik devlet hastanesi kurtkoy semt poliklinigi
+Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi,hospital,29.26281975689594,40.88665130912257,hospital,marmara universitesi pendik egitim ve arastırma hastanesi
+Ümraniye Eğitim ve Araştırma Hastanesi,hospital,29.1014133266684,41.03231023085579,hospital,umraniye egitim ve arastırma hastanesi
+İlgi Hastanesi,hospital,28.8666982961712,41.020911396866445,hospital,ilgi hastanesi
+Aile Hastanesi,hospital,28.86695517251874,40.99740070213763,hospital,aile hastanesi
+Memorial Bahçelievler Hastanesi,hospital,28.85280157276541,40.99321369707472,hospital,memorial bahcelievler hastanesi
+Acıbadem Üniversitesi Hastanesi,hospital,28.77879512067153,41.03482545042544,hospital,acıbadem universitesi hastanesi
+Mehmet Akif Ersoy Göğüs Kalp Ve Damar Cerrahisi Eğitim Ve Araştırma Hastanesi,hospital,28.776890550768943,41.03351561457311,hospital,mehmet akif ersoy gogus kalp ve damar cerrahisi egitim ve arastırma hastanesi
+Kanuni Sultan Süleyman Eğitim ve Araştırma Hastanesi,hospital,28.759489161628046,41.05458071042992,hospital,kanuni sultan suleyman egitim ve arastırma hastanesi
+Beykoz Devlet Hastanesi Tepeüstü Ek Binası,hospital,29.086195618109794,41.110636459665386,hospital,beykoz devlet hastanesi tepeustu ek binası
+Özel Avrasya Hastanesi,hospital,28.90667641634278,41.00324697062104,hospital,ozel avrasya hastanesi
+Çatalca İlyas Çokay Devlet Hastanesi,hospital,28.466665298217087,41.1353456293818,hospital,catalca ilyas cokay devlet hastanesi
+Şile Devlet Hastanesi,hospital,29.61684520544166,41.17461824424925,hospital,sile devlet hastanesi
+Zeynep Kamil Kadın Ve Çocuk Hastalıkları Eğitim Ve Araştırma Hastanesi,hospital,29.025855548704943,41.01502276485041,hospital,zeynep kamil kadın ve cocuk hastalıkları egitim ve arastırma hastanesi
+Acıbadem Kozyatağı Hastanesi,hospital,29.093069004175952,40.9766747277373,hospital,acıbadem kozyatagı hastanesi
+Memorial Şişli Hastanesi,hospital,28.97266473924722,41.06162585736019,hospital,memorial sisli hastanesi
+"Yakacık Kadın, Doğum ve Çocuk Hastalıkları Hastanesi",hospital,29.21894297309361,40.91783628880653,hospital,"yakacık kadın, dogum ve cocuk hastalıkları hastanesi"
+Bezmialem Üniversitesi Dragos Hastanesi,hospital,29.137942680056742,40.91002972227521,hospital,bezmialem universitesi dragos hastanesi
+Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi,hospital,28.86533994085342,40.99378302241536,hospital,bakırkoy dr. sadi konuk egitim ve arastırma hastanesi
+Ataşehir Memorial Hastanesi,hospital,29.10700771743645,40.98421810698039,hospital,atasehir memorial hastanesi
+Ethica Hastanesi,hospital,28.872605845694785,40.997247076829886,hospital,ethica hastanesi
+Üsküdar Devlet Hastanesi,hospital,29.038963609535536,41.01582271368942,hospital,uskudar devlet hastanesi
+Özel Diyabet Hastanesi,hospital,29.033397763551065,40.9982598859423,hospital,ozel diyabet hastanesi
+Özel Güngören Hastanesi,hospital,28.8717470638689,41.02698092619932,hospital,ozel gungoren hastanesi
+Medipol Üniversitesi Sefaköy Sağlık Uygulama Merkezi Hastanesi,hospital,28.798293253529817,41.014852766494215,hospital,medipol universitesi sefakoy saglık uygulama merkezi hastanesi
+Özel Ataşehir Hastanesi,hospital,29.175636133036456,40.98608579748953,hospital,ozel atasehir hastanesi
+Arnavutköy Devlet Hastanesi,hospital,28.746945315256337,41.1776215444544,hospital,arnavutkoy devlet hastanesi
+Avicenna Umut Hastanesi,hospital,29.17764967687745,40.89070382886792,hospital,avicenna umut hastanesi
+Or-Ayahim Özel Balat Hastanesi,hospital,28.945585724741047,41.03846040257095,hospital,or-ayahim ozel balat hastanesi
+SBÜ Süreyyapaşa Göğüs Hastalıkları Hastanesi,hospital,29.1406428568848,40.95056488118791,hospital,sbu sureyyapasa gogus hastalıkları hastanesi
+Özel Çamlık Hastanesi,hospital,28.87009259643407,40.98939031868422,hospital,ozel camlık hastanesi
+Yaşar Hastanesi,hospital,28.87283738458545,40.9837641242122,hospital,yasar hastanesi
+Acıbadem Altunizade Hastanesi,hospital,29.04632447982821,41.018979207109325,hospital,acıbadem altunizade hastanesi
+Medipol Mega Hastaneler Kompleksi,hospital,28.843314829965216,41.05823442170748,hospital,medipol mega hastaneler kompleksi
+Bahçelievler Devlet Hastanesi,hospital,28.84428609791302,41.00633310186769,hospital,bahcelievler devlet hastanesi
+Bayrampaşa Devlet Hastanesi,hospital,28.902263859587244,41.04205791831914,hospital,bayrampasa devlet hastanesi
+Özel Küçükçekmece Hastanesi,hospital,28.78052552866477,40.99961636909473,hospital,ozel kucukcekmece hastanesi
+Cerrahpaşa Tıp Fakültesi,hospital,28.94154159071336,41.00395500787669,other_health,cerrahpasa tıp fakultesi
+Nisa Hastanesi Acil,hospital,28.829489761806595,40.998970367167495,hospital,nisa hastanesi acil
+Nisa Hastanesi,hospital,28.83023840653509,40.99942581896448,hospital,nisa hastanesi
+Pendik Devlet Hastanesi,hospital,29.22950566312276,40.877118746936624,hospital,pendik devlet hastanesi
+Sante Plus Hastanesi,hospital,28.89434721457115,40.9984176764338,hospital,sante plus hastanesi
+Kaynarca Devlet Hastanesi,hospital,29.253249799999995,40.87345345,hospital,kaynarca devlet hastanesi
+Özel Pendik Bölge Hastanesi,hospital,29.24570773534805,40.88275938369296,hospital,ozel pendik bolge hastanesi
+Bahat Özel Hastanesi,hospital,28.86032313190628,41.10611863520606,hospital,bahat ozel hastanesi
+Yedikule Göğüs Hastalıkları ve Göğüs Cerrahisi Eğitim ve Araştırma Hastanesi,hospital,28.91565829386362,41.002149155149134,hospital,yedikule gogus hastalıkları ve gogus cerrahisi egitim ve arastırma hastanesi
+İstanbul Gaziosmanpaşa Eğitim ve Araştırma Hastanesi,hospital,28.898122547080057,41.08651144262779,hospital,istanbul gaziosmanpasa egitim ve arastırma hastanesi
+Sancaktepe Şehit Prof.Dr. İlhan Varank Eğitim Ve Araştırma Hastanesi,hospital,29.196666886893887,41.00553750822794,hospital,sancaktepe sehit prof.dr. ilhan varank egitim ve arastırma hastanesi
+Haseki Eğitim Ve Araştırma Hastanesi,hospital,28.8992987554175,41.00975609877334,hospital,haseki egitim ve arastırma hastanesi
+Özel Safa Hastanesi,hospital,28.85720355,41.02272305,hospital,ozel safa hastanesi
+Gaziosmanpaşa Fizik Tedavi Rehabilitasyon Eğitim ve Araştırma Hastanesi,hospital,28.90830602598715,41.08909665188769,hospital,gaziosmanpasa fizik tedavi rehabilitasyon egitim ve arastırma hastanesi
+İstanbul Beykoz (Paşabahçe) Devlet Hastanesi,hospital,29.098218973714367,41.11760850188885,hospital,istanbul beykoz (pasabahce) devlet hastanesi
+İstinye Devlet Hastanesi,hospital,29.055741709668503,41.115157947867125,hospital,istinye devlet hastanesi
+İstinye Devlet Hastanesi,hospital,29.055410481188773,41.114999210031705,hospital,istinye devlet hastanesi
+Okan Üniversitesi Hastanesi,hospital,29.301873437452,40.84934627094012,hospital,okan universitesi hastanesi
+Özel Gisbir Hastanesi,hospital,29.294316764846503,40.84764983447216,hospital,ozel gisbir hastanesi
+Büyükçekmece Mimar Sinan Devlet Hastanesi,hospital,28.555548233241,41.01700259250648,hospital,buyukcekmece mimar sinan devlet hastanesi
+Şişli Florence Nightingale Hastanesi,hospital,28.98369547942392,41.06926657246607,hospital,sisli florence nightingale hastanesi
+Lokman Hekim Hastanesi,hospital,29.29104132635345,40.92544430850709,hospital,lokman hekim hastanesi
+Marmara Üniversitesi Prof. Dr. Asaf Ataseven Hastanesi,hospital,29.138242943398563,40.950602905516135,hospital,marmara universitesi prof. dr. asaf ataseven hastanesi
+Özel Pendik Yüzyıl Hastanesi,hospital,29.261439367303183,40.8793764537467,hospital,ozel pendik yuzyıl hastanesi
+Kurtköy Ersoy Hastanesi,hospital,29.29805145283872,40.91061348636765,hospital,kurtkoy ersoy hastanesi
+Yeditepe Üniversitesi İhtisas Hastanesi,hospital,29.031275865030576,41.004111566715935,hospital,yeditepe universitesi ihtisas hastanesi
+Medicana Ataşehir Hastanesi,hospital,29.106932833005395,40.98354219589727,hospital,medicana atasehir hastanesi
+Maltepe Altayçeşme Devlet Hastanesi,hospital,29.13498798455356,40.93687648410676,hospital,maltepe altaycesme devlet hastanesi
+Ersoy Hastanesi,hospital,29.13472344970216,40.933171115376325,hospital,ersoy hastanesi
+Mehmet Toprak Hastanesi,hospital,29.14563292569449,40.91719825936444,hospital,mehmet toprak hastanesi
+İstanbul Onkoloji Hastanesi,hospital,29.15369308274049,40.92244194973562,hospital,istanbul onkoloji hastanesi
+Acıbadem Ataşehir Hastanesi,hospital,29.12701583396169,40.99448092498864,hospital,acıbadem atasehir hastanesi
+Acıbadem Bahçeşehir Hastanesi,hospital,28.68838917848516,41.06266830349113,hospital,acıbadem bahcesehir hastanesi
+Medicana Çamlıca Hastanesi,hospital,29.08346611640012,41.02469637962124,hospital,medicana camlıca hastanesi
+Özel İlke Hastanesi,hospital,28.83486023746416,40.99763020100264,hospital,ozel ilke hastanesi
+Ataköy Hastanesi,hospital,28.840688540046948,40.99256163665613,hospital,atakoy hastanesi
+Taksim Eğitim ve Araştırma Hastanesi,hospital,28.98314479933851,41.033100297584525,hospital,taksim egitim ve arastırma hastanesi
+Beykoz Devlet Hastanesi Toplum Ruh Sağlığı Merkezi,hospital,29.093447450000006,41.15392655,hospital,beykoz devlet hastanesi toplum ruh saglıgı merkezi
+Başakşehir Çam ve Sakura Şehir Hastanesi,hospital,28.7762127957518,41.10503112367816,hospital,basaksehir cam ve sakura sehir hastanesi
+SBÜ Bağcılar Eğitim ve Araştırma Hastanesi Güneşli Semt Polikliniğ,hospital,28.83228418294879,41.03566037436463,hospital,sbu bagcılar egitim ve arastırma hastanesi gunesli semt poliklinig
+Sancaktepe Prof. Dr. Feriha Öz Acil Durum Hastanesi,hospital,29.209957464657645,41.00018882923803,hospital,sancaktepe prof. dr. feriha oz acil durum hastanesi
+İstanbul Fizik Tedavi ve Rehabilitasyon Eğitim Ve Araştırma Hastanesi,hospital,28.854577682237583,40.99520021816642,hospital,istanbul fizik tedavi ve rehabilitasyon egitim ve arastırma hastanesi
+Sarıyer İsmail Akgün Devlet Hastanesi,hospital,29.056711427380595,41.16942431331889,hospital,sarıyer ismail akgun devlet hastanesi
+Silivri Kolan Hastanesi,hospital,28.25842109863334,41.07206961086631,hospital,silivri kolan hastanesi
+Acıbadem Dr. Şinasi Can (Kadıköy) Hastanesi,hospital,29.042966306592955,41.007166288590255,hospital,acıbadem dr. sinasi can (kadıkoy) hastanesi
+Yedikule Surp Pırgiç Ermeni Hastanesi,hospital,28.915355815051843,40.99377735184313,hospital,yedikule surp pırgic ermeni hastanesi
+Özel Ataşehir Florence Nightingale Hastanesi,hospital,29.108752878251064,40.98476523121047,hospital,ozel atasehir florence nightingale hastanesi
+Beykent Üniversitesi Hastanesi,hospital,28.626252410196503,41.01751914695499,hospital,beykent universitesi hastanesi
+Çağıner Hastanesi,hospital,29.04514941472152,40.996182402888685,hospital,cagıner hastanesi
+Sultangazi Haseki Eğitim ve Araştırma Hastanesi,hospital,28.87315074009046,41.104779842330345,hospital,sultangazi haseki egitim ve arastırma hastanesi
+Erdem Hastanesi,hospital,29.082244434292928,41.02517495929437,hospital,erdem hastanesi
+Silivri Devlet Hastanesi,hospital,28.25013467580625,41.07790331877939,hospital,silivri devlet hastanesi
+Sultanbeyli Devlet Hastanesi,hospital,29.28391860231136,40.985594466020686,hospital,sultanbeyli devlet hastanesi
+Sarıyer Hamidiye Etfal Eğitim ve Araştırma Hastanesi,hospital,29.027557485284284,41.1578740444565,hospital,sarıyer hamidiye etfal egitim ve arastırma hastanesi
+Kartal Kızılay Hastanesi,hospital,29.181927860679885,40.890894110215456,hospital,kartal kızılay hastanesi
+Kartal Dr. Lütfi Kırdar Eğitim ve Araştırma Hastanesi Büyükada Ek Hizmet Binası,hospital,29.127906717148512,40.869982233682784,hospital,kartal dr. lutfi kırdar egitim ve arastırma hastanesi buyukada ek hizmet binası
+Seyrantepe Hamidiye Etfal Eğitim ve Araştırma Hastanesi,hospital,28.996249819285485,41.10361886683653,hospital,seyrantepe hamidiye etfal egitim ve arastırma hastanesi
+Eyüpsultan Devlet Hastanesi,hospital,28.940763079366075,41.05737786264425,hospital,eyupsultan devlet hastanesi
+Mercan Hastanesi,hospital,29.307564035576668,40.82838932059942,hospital,mercan hastanesi
+Özel Bölge Hastanesi,hospital,29.215454769916253,41.00565506751944,hospital,ozel bolge hastanesi
+Medical Park Hastanesi Ataşehir,hospital,29.14436510874797,40.98781403054328,hospital,medical park hastanesi atasehir
+Bayındır Hastanesi İçerenköy,hospital,29.110563849661784,40.96697572657719,hospital,bayındır hastanesi icerenkoy
+Yeşilköy Prof. Dr. Murat Dilmener Acil Durum Hastanesi,hospital,28.80799612167288,40.97062704279357,hospital,yesilkoy prof. dr. murat dilmener acil durum hastanesi
+Özel Esencan Hastanesi,hospital,28.6765519013108,41.033399861083616,hospital,ozel esencan hastanesi
+Şile Devlet Hastanesi,hospital,29.572522932469106,41.162220743373545,hospital,sile devlet hastanesi
+Başkent Üniversitesi İstanbul Sağlık Uygulama ve Araştırma Merkezi Hastanesi,hospital,29.04112516024876,41.02489007882202,hospital,baskent universitesi istanbul saglık uygulama ve arastırma merkezi hastanesi
+Özel Bahçelievler Medicana Hastanesi,hospital,28.87010880445977,41.00647139342751,hospital,ozel bahcelievler medicana hastanesi
+İstanbul Göz Hastanesi,hospital,28.87111130643324,41.00115739507722,hospital,istanbul goz hastanesi
+Özel Bahçelievler Medicana Hastanesi,hospital,28.869880210343148,41.00673881121613,hospital,ozel bahcelievler medicana hastanesi
+Aktif International Hastanesi Bahçelievler,hospital,28.86958893773685,41.00716752026427,hospital,aktif international hastanesi bahcelievler
+Başakşehir Devlet Hastanesi,hospital,28.808424061747065,41.11835885042913,hospital,basaksehir devlet hastanesi
+Medipol Üniversitesi Esenler Hastanesi,hospital,28.866294084220275,41.05125839876252,hospital,medipol universitesi esenler hastanesi
+Medipol Üniversitesi Esenler Hastanesi,hospital,28.866211865913925,41.05139927900665,hospital,medipol universitesi esenler hastanesi
+Avicenna Hastanesi,hospital,28.881009115769245,41.04083701821804,hospital,avicenna hastanesi
+Esenler Kadın Doğum ve Çocuk Hastalıkları Hastanesi,hospital,28.869110963244022,41.05597782297832,hospital,esenler kadın dogum ve cocuk hastalıkları hastanesi
+Kağıthane Kızılay Hastanesi,hospital,28.9708833,41.08267475,hospital,kagıthane kızılay hastanesi
+S life hastanesi,hospital,28.65222173752595,41.039869289943255,hospital,s life hastanesi
+Acıbadem Maslak Hastanesi,hospital,29.025258114323496,41.12738153024474,hospital,acıbadem maslak hastanesi
+İstanbul Meslek Hastalıkları Hastanesi,hospital,29.138931911718547,40.94901791762138,hospital,istanbul meslek hastalıkları hastanesi
+Acıbadem Ataşehir Hastanesi,hospital,29.126935687058428,40.99440484622754,hospital,acıbadem atasehir hastanesi
+Erdem Hastanesi,hospital,28.82544746034968,41.04013296402276,hospital,erdem hastanesi
+Bakırköy Prof. Dr. Mazhar Osman Ruh Sağlığı ve Sinir Hastalıkları Eğitim ve Araştırma Hastanesi,hospital,28.862426858726387,40.98898001639595,hospital,bakırkoy prof. dr. mazhar osman ruh saglıgı ve sinir hastalıkları egitim ve arastırma hastanesi
+Özel Florya Hastanesi,hospital,28.74762332861978,40.97990550626294,hospital,ozel florya hastanesi
+Avcılar Murat Kölük Devlet Hastanesi,hospital,28.73128537856684,40.98474873975096,hospital,avcılar murat koluk devlet hastanesi
+Esenler Kadın Doğum Hastanesi,hospital,28.869098608828043,41.05577847415511,hospital,esenler kadın dogum hastanesi
+Acıbadem Kartal Hastanesi,hospital,29.20720266783624,40.88622654781331,hospital,acıbadem kartal hastanesi
+Medipol Üniversitesi Çamlıca Hastanesi,hospital,29.08206199445568,41.02331994848574,hospital,medipol universitesi camlıca hastanesi
+Megapol Hastanesi,hospital,29.19947777633376,40.9161097236675,hospital,megapol hastanesi
+Aksu Özel Göztepe Hastanesi,hospital,29.06200176501139,40.98777313968988,hospital,aksu ozel goztepe hastanesi
+Pendik Medipol Üniversitesi Hastanesi,hospital,29.23513618195452,40.884550806544034,hospital,pendik medipol universitesi hastanesi
+İbni Sina Hastanesi,hospital,29.167204271604326,40.900880881566806,hospital,ibni sina hastanesi
+Koç Üniversitesi Hastanesi,hospital,28.916749998034906,41.0239970194984,hospital,koc universitesi hastanesi
+Baltalimanı Hastanesi,hospital,29.0535611,41.0964088,hospital,baltalimanı hastanesi
+Özel Bağcılar Tekden Hastanesi,hospital,28.8449942,41.0479666,hospital,ozel bagcılar tekden hastanesi
+Çevre Hastanesi,hospital,29.0013232,41.0672214,hospital,cevre hastanesi
+Aksoy Hastanesi,hospital,29.0013661,41.0673508,hospital,aksoy hastanesi
+Birinci Göz Hastanesi Beylikdüzü,hospital,28.6428053,41.0112282,hospital,birinci goz hastanesi beylikduzu
+Dünya Göz Hastanesi Beykent,hospital,28.6274846,41.019077,hospital,dunya goz hastanesi beykent
+Amerikan Hastanesi,hospital,28.9952948,41.0533806,hospital,amerikan hastanesi
+Acıbadem Fulya Hastanesi,hospital,28.9995499,41.0557195,hospital,acıbadem fulya hastanesi
+Özel Avcılar Anadolu Hastanesi,hospital,28.7061163,41.0054462,hospital,ozel avcılar anadolu hastanesi
+Özel Medicana Hastanesi,hospital,28.7211479,40.9812753,hospital,ozel medicana hastanesi
+Kasım Paşa Asker Hastanesi,hospital,28.964016,41.0327835,hospital,kasım pasa asker hastanesi
+Alibey Hastanesi,hospital,28.9270647,41.0789994,hospital,alibey hastanesi
+Koç Üniversitesi Hastanesi,hospital,28.9166504,41.0241414,hospital,koc universitesi hastanesi
+Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi Bahçelievler Polikliniği,hospital,28.8560596,40.9970758,hospital,bakırkoy dr. sadi konuk egitim ve arastırma hastanesi bahcelievler poliklinigi
+Beyoğlu Göz Hastanesi,hospital,28.9742012,41.0245743,hospital,beyoglu goz hastanesi
+Özel Akgün Tem Hastanesi,hospital,28.8016254,41.0614165,hospital,ozel akgun tem hastanesi
+Güney Hastanesi,hospital,28.8796744,41.0437273,hospital,guney hastanesi
+Medipol Üniversitesi Fındıkzade Hastanesi,hospital,28.9400268,41.0125315,hospital,medipol universitesi fındıkzade hastanesi
+Özel Fatih Hastanesi,hospital,28.9507717,41.0156766,hospital,ozel fatih hastanesi
+İstanbul Cerrahi Hastanesi,hospital,28.9980027,41.0555721,hospital,istanbul cerrahi hastanesi
+Surp Pırgiç Ermeni Hastanesi,hospital,28.9146943,40.9939323,hospital,surp pırgic ermeni hastanesi
+Bağcılar Eğitim ve Araştırma Hastanesi,hospital,28.8712404,41.0301322,hospital,bagcılar egitim ve arastırma hastanesi
+Saygı Hastanesi Ayak Sağlığı Birimi,hospital,29.257738,40.969457,hospital,saygı hastanesi ayak saglıgı birimi
+Saygı Hastanesi,hospital,29.2581715,40.9697567,hospital,saygı hastanesi
+Sultanbeyli Dünyagöz Hastanesi,hospital,29.2534249,40.9685018,hospital,sultanbeyli dunyagoz hastanesi
+T.C. Sağlık Bakanlığı İstanbul Tacirler Eğitim Vakfı Sultanbeyli İlçe Devlet Hastanesi Merkez Polikliniği,hospital,29.265783,40.9636827,hospital,t.c. saglık bakanlıgı istanbul tacirler egitim vakfı sultanbeyli ilce devlet hastanesi merkez poliklinigi
+Ersoy Hastanesi,hospital,29.2694043,40.966572,hospital,ersoy hastanesi
+İstanbul Tacirler Eğitim Vakfı T.E.V. Sultanbeyli İlçe Devlet Hastanesi,hospital,29.2659788,40.965177,hospital,istanbul tacirler egitim vakfı t.e.v. sultanbeyli ilce devlet hastanesi
+Sultanbeyli Avrupa Göz Hastanesi,hospital,29.2612337,40.9670638,hospital,sultanbeyli avrupa goz hastanesi
+balıklı rum hastanesi vakfı,hospital,28.9175398,40.9996039,hospital,balıklı rum hastanesi vakfı
+Yedikule Göğüş Hastalıkları Hastanesi,hospital,28.9152374,41.0021036,hospital,yedikule gogus hastalıkları hastanesi
+Yedikule Surp PIRGIÇ ERMENI Hastanesi,hospital,28.9152516,40.9938689,hospital,yedikule surp pirgic ermeni hastanesi
+SÜLEYMANİYE KADIN DOĞUM VE ÇOCUK HASTANESİ,hospital,28.9148279,40.9956164,hospital,suleymaniye kadin dogum ve cocuk hastanesi
+MEDILIFE HASTANESİ,hospital,28.8595084,41.048796,hospital,medilife hastanesi
+Özel Hospitalist Hastanesi,hospital,28.8550884,41.0345832,hospital,ozel hospitalist hastanesi
+İstanbul Eğitim ve Araştırma Hastanesi Osmaniye Semt Poliklinği,hospital,28.8813608,40.9920204,hospital,istanbul egitim ve arastırma hastanesi osmaniye semt poliklingi
+Gaziosmanpaşa Özel Başarı Hastanesi,hospital,28.9066811,41.0797533,hospital,gaziosmanpasa ozel basarı hastanesi
+Haydarpaşa Numune Eğitim ve Araştırma Hastanesi Tıbbiye Binası,hospital,29.0257508,41.0043457,hospital,haydarpasa numune egitim ve arastırma hastanesi tıbbiye binası
+Özel Pendik Şifa Hastanesi,hospital,29.2361908,40.88302,hospital,ozel pendik sifa hastanesi
+Dünya Göz Hastanesi,hospital,29.2362412,40.8788795,hospital,dunya goz hastanesi
+Haydarpaşa Numune Hastanesi,hospital,29.0227593,41.0044482,hospital,haydarpasa numune hastanesi
+Özel Üsküdar Anadolu Hastanesi,hospital,29.0158947,41.0214296,hospital,ozel uskudar anadolu hastanesi
+İstanbul Tema Hastanesi,hospital,28.7739432,41.0600854,hospital,istanbul tema hastanesi
+Bezmialem Vakıf Üniversitesi Tıp Fakültesi Acil Tıp,hospital,28.9348553,41.0199922,other_health,bezmialem vakıf universitesi tıp fakultesi acil tıp
+Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi Gümüşsuyu Binası,hospital,28.9900446,41.0375948,hospital,sisli hamidiye etfal egitim ve arastırma hastanesi gumussuyu binası
+Kartal Dr. Lütfi Kırdar Eğitim ve Araştırma Hastanesi KADİR REZZAN HAS ADATEPE POLİKLİNİĞİ,hospital,29.1239632,40.9332716,hospital,kartal dr. lutfi kırdar egitim ve arastırma hastanesi kadir rezzan has adatepe poliklinigi
+İstanbul Üniversitesi Tıp Fakültesi Hastanesi,hospital,28.9339596,41.0168625,hospital,istanbul universitesi tıp fakultesi hastanesi
+Özel Avusturya Sen Jorj Hastanesi,hospital,28.9743145,41.0242924,hospital,ozel avusturya sen jorj hastanesi
+Özel Asya Hastanesi,hospital,28.9038241,41.073873,hospital,ozel asya hastanesi
+Özel Bilge Hastanesi,hospital,28.9073845,41.0695422,hospital,ozel bilge hastanesi
+Avrupa Özel Şafak Hastanesi,hospital,28.9123842,41.0596967,hospital,avrupa ozel safak hastanesi
+Özel Etiler Hastanesi,hospital,29.0183816,41.0726109,hospital,ozel etiler hastanesi
+Medicana Zincirlikuyu Hastanesi,hospital,29.0151774,41.0714522,hospital,medicana zincirlikuyu hastanesi
+Erdem Hastanesi,hospital,29.1198759,41.021568,hospital,erdem hastanesi
+Çekmeköy Devlet Hastanesi,hospital,29.2352315,41.0373376,hospital,cekmekoy devlet hastanesi
+Şehit Prof. İlhan Varank Eğitim ve Araştırma Hastanesi - Çekmeköy Ek Hizmet Binası,hospital,29.2351897,41.0378066,hospital,sehit prof. ilhan varank egitim ve arastırma hastanesi - cekmekoy ek hizmet binası
+Özel Okmeydanı hastanesi,hospital,28.959974,41.0525054,hospital,ozel okmeydanı hastanesi
+İstinye Üniversite Hastanesi,hospital,28.6719772,41.0562343,hospital,istinye universite hastanesi
