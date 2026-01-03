@@ -1,3 +1,6 @@
+# Live Demo
+https://nestfitter-ccbpmdapr5bewiqcp23hxx.streamlit.app/
+
 # Ev Yaşam Öneri Sistemi (İstanbul)
 
 Ev seçimi sürecinde yalnızca konutun fiziksel özellikleri değil,
