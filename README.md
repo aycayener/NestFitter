@@ -326,6 +326,13 @@ Her adım tamamlandıkça README güncellenecektir.
 - Profil bazlı lokasyon önerilerinin görsel sunumu  
 
 ---
+# Proje Ekibi
+- Ayça Berin Yener
+- Celaleddin Tırıs
+- Çağan Koç
+- Fatma Sıla Türel
+- Ferhunde Tuba Dandin
+- Yusuf Mestan
 
 ## Notlar
 
