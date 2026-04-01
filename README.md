@@ -5,7 +5,7 @@ https://nestfitter-ccbpmdapr5bewiqcp23hxx.streamlit.app/
 
 Ev seçimi sürecinde yalnızca konutun fiziksel özellikleri değil,
 bulunduğu çevrenin sunduğu yaşam olanakları da kritik rol oynar.
-Okul, hastane, park, toplu taşıma ve alışveriş merkezleri gibi noktalar,
+Okul, hastane, park, toplu taşıma ve alışveriş merkezleri gibi noktalar
 bir evin günlük yaşam açısından ne kadar uygun olduğunu belirler.
 
 Bu proje, İstanbul genelinde farklı yaşam alanlarına ait mekânsal verileri
@@ -27,7 +27,7 @@ Bu doğrultuda proje:
 
 - Kullanıcının yaşam tarzı ve günlük ihtiyaçlarıyla
   yaşadığı çevre arasındaki ilişkiyi görünür hale getirmeyi  
-- İstanbul’daki farklı lokasyonların,
+- İstanbul’daki farklı lokasyonların
   sundukları yaşam olanakları açısından karşılaştırılabilmesini  
 - Ev seçimi sürecinde genellikle sezgisel yapılan
   “bu çevre bana uygun mu?” değerlendirmesini
